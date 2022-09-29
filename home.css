@@ -110,7 +110,7 @@
   justify-content: space-between;
 }
 .home-image {
-  width: var(--dl-size-size-large);
+  width: 180px;
   object-fit: cover;
   margin-right: 14px;
 }
