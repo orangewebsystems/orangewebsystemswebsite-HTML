@@ -145,10 +145,14 @@
   flex-direction: row;
   justify-content: space-between;
 }
+.themes-navlink {
+  display: contents;
+}
 .themes-image {
   width: 180px;
   object-fit: cover;
   margin-right: 14px;
+  text-decoration: none;
 }
 .themes-links {
   flex: 0 0 auto;
@@ -160,12 +164,12 @@
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
 }
-.themes-navlink {
+.themes-navlink1 {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
   text-decoration: none;
 }
-.themes-navlink1 {
+.themes-navlink2 {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
   text-decoration: none;
@@ -178,12 +182,26 @@
   width: 24px;
   height: 24px;
 }
+.themes-container01 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--dl-color-scheme-green100);
+}
+.themes-text01 {
+  color: var(--dl-color-scheme-white);
+}
 .themes-hero {
   height: 614px;
+  background-color: var(--dl-color-scheme-white);
 }
 .themes-max-width1 {
   height: 462px;
   align-items: center;
+  background-color: var(--dl-color-scheme-white);
 }
 .themes-content {
   flex: 0 0 auto;
@@ -199,7 +217,7 @@
   margin-bottom: var(--dl-space-space-unit);
 }
 .themes-title {
-  color: var(--dl-color-scheme-lightgreen);
+  color: var(--dl-color-scheme-green100);
   font-size: 52px;
   font-style: normal;
   font-family: Urbanist;
@@ -208,17 +226,29 @@
   margin-bottom: var(--dl-space-space-twounits);
 }
 .themes-description {
-  color: var(--dl-color-scheme-white);
+  color: var(--dl-color-scheme-green80);
   font-size: 18px;
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
 }
-.themes-container01 {
+.themes-container02 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
   align-items: stretch;
   flex-direction: row;
+}
+.themes-button {
+  color: var(--dl-color-scheme-white);
+  font-size: 22px;
+  align-self: center;
+  font-weight: bold;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-threeunits);
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-scheme-green100);
 }
 .themes-image1 {
   position: relative;
@@ -270,11 +300,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text01 {
+.themes-text02 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text02 {
+.themes-text03 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -282,15 +312,15 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.themes-text04 {
+.themes-text05 {
   color: var(--dl-color-scheme-orange100);
 }
-.themes-text05 {
+.themes-text06 {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
 }
-.themes-container02 {
+.themes-container03 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
@@ -310,11 +340,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text06 {
+.themes-text07 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text07 {
+.themes-text08 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -322,19 +352,19 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.themes-text08 {
+.themes-text09 {
   color: var(--dl-color-scheme-orange100);
   font-family: Urbanist;
 }
-.themes-text10 {
+.themes-text11 {
   font-family: Urbanist;
 }
-.themes-text11 {
+.themes-text12 {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
 }
-.themes-container03 {
+.themes-container04 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
@@ -369,11 +399,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text12 {
+.themes-text13 {
   color: var(--dl-color-scheme-white);
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text13 {
+.themes-text14 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -399,14 +429,14 @@
   justify-content: center;
   background-color: var(--dl-color-scheme-orange100);
 }
-.themes-text14 {
+.themes-text15 {
   font-size: 28px;
   font-style: normal;
   font-family: Urbanist;
   font-weight: 700;
   line-height: 1.5;
 }
-.themes-container04 {
+.themes-container05 {
   flex: 1;
   display: flex;
   align-items: flex-start;
@@ -421,7 +451,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text15 {
+.themes-text16 {
   color: var(--dl-color-scheme-white);
   line-height: 1.5;
 }
@@ -442,14 +472,14 @@
   justify-content: center;
   background-color: var(--dl-color-scheme-orange100);
 }
-.themes-text16 {
+.themes-text17 {
   font-size: 28px;
   font-style: normal;
   font-family: Urbanist;
   font-weight: 700;
   line-height: 1.5;
 }
-.themes-container05 {
+.themes-container06 {
   flex: 1;
   display: flex;
   align-items: flex-start;
@@ -464,7 +494,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text17 {
+.themes-text18 {
   color: var(--dl-color-scheme-white);
   line-height: 1.5;
 }
@@ -484,14 +514,14 @@
   justify-content: center;
   background-color: var(--dl-color-scheme-orange100);
 }
-.themes-text18 {
+.themes-text19 {
   font-size: 28px;
   font-style: normal;
   font-family: Urbanist;
   font-weight: 700;
   line-height: 1.5;
 }
-.themes-container06 {
+.themes-container07 {
   flex: 1;
   display: flex;
   align-items: flex-start;
@@ -506,7 +536,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text19 {
+.themes-text20 {
   color: var(--dl-color-scheme-white);
   line-height: 1.5;
 }
@@ -515,11 +545,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text20 {
+.themes-text21 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text21 {
+.themes-text22 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -560,11 +590,11 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.themes-text24 {
+.themes-text25 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text25 {
+.themes-text26 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -572,10 +602,10 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.themes-text26 {
+.themes-text27 {
   font-family: Urbanist;
 }
-.themes-text28 {
+.themes-text29 {
   color: var(--dl-color-scheme-orange100);
   font-family: Urbanist;
 }
@@ -585,7 +615,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.themes-text29 {
+.themes-text30 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -596,7 +626,7 @@
   width: 12px;
   height: 12px;
 }
-.themes-text30 {
+.themes-text31 {
   margin-top: 8px;
 }
 .themes-trigger1 {
@@ -605,7 +635,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.themes-text31 {
+.themes-text32 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -616,7 +646,7 @@
   width: 12px;
   height: 12px;
 }
-.themes-text32 {
+.themes-text33 {
   margin-top: 8px;
 }
 .themes-trigger2 {
@@ -625,7 +655,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.themes-text33 {
+.themes-text34 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -636,7 +666,7 @@
   width: 12px;
   height: 12px;
 }
-.themes-text34 {
+.themes-text35 {
   margin-top: 8px;
 }
 .themes-trigger3 {
@@ -645,7 +675,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.themes-text35 {
+.themes-text36 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -656,7 +686,7 @@
   width: 12px;
   height: 12px;
 }
-.themes-text36 {
+.themes-text37 {
   margin-top: 8px;
 }
 .themes-image6 {
@@ -675,11 +705,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-1200w.png");
 }
-.themes-text37 {
+.themes-text38 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text38 {
+.themes-text39 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -689,7 +719,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text44 {
+.themes-text45 {
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
@@ -734,19 +764,16 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.themes-container07 {
+.themes-container08 {
   width: 100%;
   display: flex;
   align-items: flex-start;
   flex-direction: row;
   justify-content: space-between;
 }
-.themes-text48 {
+.themes-text49 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
-}
-.themes-text49 {
-  margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text50 {
   margin-bottom: var(--dl-space-space-unit);
@@ -757,12 +784,12 @@
 .themes-text52 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text54 {
-  font-weight: 700;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
+.themes-text53 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text55 {
-  margin-bottom: var(--dl-space-space-unit);
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .themes-text56 {
   margin-bottom: var(--dl-space-space-unit);
@@ -773,12 +800,12 @@
 .themes-text58 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text60 {
-  font-weight: 700;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
+.themes-text59 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text61 {
-  margin-bottom: var(--dl-space-space-unit);
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .themes-text62 {
   margin-bottom: var(--dl-space-space-unit);
@@ -792,12 +819,12 @@
 .themes-text65 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text67 {
-  font-weight: 700;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
+.themes-text66 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text68 {
-  margin-bottom: var(--dl-space-space-unit);
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .themes-text69 {
   margin-bottom: var(--dl-space-space-unit);
@@ -805,15 +832,15 @@
 .themes-text70 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text73 {
+.themes-text71 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text76 {
-  font-weight: 700;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
+.themes-text74 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text77 {
-  margin-bottom: var(--dl-space-space-unit);
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .themes-text78 {
   margin-bottom: var(--dl-space-space-unit);
@@ -821,12 +848,12 @@
 .themes-text79 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text81 {
-  font-weight: 700;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
+.themes-text80 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text82 {
-  margin-bottom: var(--dl-space-space-unit);
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .themes-text83 {
   margin-bottom: var(--dl-space-space-unit);
@@ -838,6 +865,9 @@
   margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text86 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.themes-text87 {
   margin-bottom: var(--dl-space-space-unit);
 }
 @media(max-width: 991px) {
@@ -921,7 +951,7 @@
     margin-top: var(--dl-space-space-twounits);
     flex-direction: row;
   }
-  .themes-container07 {
+  .themes-container08 {
     flex-wrap: wrap;
     margin-right: 0px;
   }
@@ -985,7 +1015,7 @@
     flex-direction: column;
     justify-content: space-between;
   }
-  .themes-container07 {
+  .themes-container08 {
     width: 100%;
     justify-content: space-between;
   }
@@ -1005,7 +1035,7 @@
     flex-direction: column;
     justify-content: space-between;
   }
-  .themes-container07 {
+  .themes-container08 {
     align-items: center;
     margin-right: 0px;
     justify-content: space-between;
