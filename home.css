@@ -134,9 +134,13 @@
 .home-text10 {
   color: var(--dl-color-scheme-orange100);
 }
+.home-link1 {
+  display: contents;
+}
 .home-image2 {
   width: 100px;
   object-fit: cover;
+  text-decoration: none;
 }
 .home-text11 {
   font-size: 16px;
@@ -351,6 +355,13 @@
   }
   .home-container1 {
     height: 400px;
+  }
+  .home-text02 {
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+  .home-image2 {
+    margin-top: var(--dl-space-space-oneandhalfunits);
   }
   .home-text13 {
     font-size: 42px;
