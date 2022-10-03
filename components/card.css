@@ -10,7 +10,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: flex-end;
-  background-image: url("public/playground_assets/rectangle%2035-1500w.png");
+  background-image: url("https://play.teleporthq.io/static/svg/placeholders/no-image.svg");
 }
 .card-info {
   width: 362px;
@@ -38,48 +38,47 @@
 }
 .card-root-class-name {
   background-size: cover;
-  background-image: url("public/playground_assets/rectangle%2035%20%5B1%5D-200h.png");
+  background-image: db12816f-507e-4a57-a35e-96b5daef957b;
 }
 .card-root-class-name1 {
   background-size: cover;
-  background-image: url("public/playground_assets/rectangle%2035%20%5B2%5D-200h.png");
+  background-image: 6af9eb12-78c1-4b29-a6db-7649c8ba36d6;
 }
 
 
 .card-root-class-name4 {
   background-size: cover;
-  background-image: url("public/playground_assets/rectangle%2035%20%5B1%5D-200h.png");
+  background-image: db12816f-507e-4a57-a35e-96b5daef957b;
 }
 .card-root-class-name5 {
   background-size: cover;
-  background-image: url("public/playground_assets/rectangle%2035%20%5B2%5D-200h.png");
+  background-image: 6af9eb12-78c1-4b29-a6db-7649c8ba36d6;
 }
 
 .card-root-class-name7 {
   background-size: cover;
-  background-image: url("public/playground_assets/rectangle%2035%20%5B1%5D-200h.png");
+  background-image: db12816f-507e-4a57-a35e-96b5daef957b;
 }
 .card-root-class-name8 {
   background-size: cover;
-  background-image: url("public/playground_assets/rectangle%2035%20%5B2%5D-200h.png");
+  background-image: 6af9eb12-78c1-4b29-a6db-7649c8ba36d6;
 }
-
 .card-root-class-name10 {
   background-size: cover;
-  background-image: url("public/playground_assets/rectangle%2035%20%5B1%5D-200h.png");
+  background-image: db12816f-507e-4a57-a35e-96b5daef957b;
 }
 .card-root-class-name11 {
   background-size: cover;
-  background-image: url("public/playground_assets/rectangle%2035%20%5B2%5D-200h.png");
+  background-image: 6af9eb12-78c1-4b29-a6db-7649c8ba36d6;
 }
 
 .card-root-class-name13 {
   background-size: cover;
-  background-image: url("public/playground_assets/rectangle%2035%20%5B1%5D-200h.png");
+  background-image: db12816f-507e-4a57-a35e-96b5daef957b;
 }
 .card-root-class-name14 {
   background-size: cover;
-  background-image: url("public/playground_assets/rectangle%2035%20%5B2%5D-200h.png");
+  background-image: 6af9eb12-78c1-4b29-a6db-7649c8ba36d6;
 }
 
 .card-root-class-name16 {
@@ -119,9 +118,6 @@
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
   .card-root-class-name8 {
-    margin-bottom: var(--dl-space-space-oneandhalfunits);
-  }
-  .card-root-class-name9 {
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
   .card-root-class-name10 {
