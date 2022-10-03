@@ -142,15 +142,16 @@
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
 }
+.home-navlink {
+  color: var(--dl-color-scheme-green80);
+  margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
 .home-text01 {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
 }
-.home-text02 {
-  color: var(--dl-color-scheme-green80);
-  margin-right: var(--dl-space-space-twounits);
-}
-.home-navlink {
+.home-navlink1 {
   text-decoration: none;
 }
 .home-burger-menu {
@@ -183,7 +184,7 @@
   line-height: 1.2;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.home-text04 {
+.home-text03 {
   color: var(--dl-color-scheme-lightgreen);
 }
 .home-description {
@@ -243,11 +244,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text05 {
+.home-text04 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text06 {
+.home-text05 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -255,20 +256,20 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
+.home-text06 {
+  font-family: Urbanist;
+}
 .home-text07 {
+  color: var(--dl-color-scheme-orange100);
   font-family: Urbanist;
 }
 .home-text08 {
-  color: var(--dl-color-scheme-orange100);
   font-family: Urbanist;
 }
 .home-text09 {
   font-family: Urbanist;
 }
 .home-text10 {
-  font-family: Urbanist;
-}
-.home-text11 {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
@@ -293,11 +294,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text12 {
+.home-text11 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text13 {
+.home-text12 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -305,14 +306,14 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.home-text14 {
+.home-text13 {
   color: var(--dl-color-scheme-orange100);
   font-family: Urbanist;
 }
-.home-text16 {
+.home-text15 {
   font-family: Urbanist;
 }
-.home-text17 {
+.home-text16 {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
@@ -352,11 +353,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text18 {
+.home-text17 {
   color: var(--dl-color-scheme-white);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text19 {
+.home-text18 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -382,7 +383,7 @@
   justify-content: center;
   background-color: var(--dl-color-scheme-orange100);
 }
-.home-text20 {
+.home-text19 {
   font-size: 28px;
   font-style: normal;
   font-family: Urbanist;
@@ -404,7 +405,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text21 {
+.home-text20 {
   color: var(--dl-color-scheme-white);
   line-height: 1.5;
 }
@@ -425,7 +426,7 @@
   justify-content: center;
   background-color: var(--dl-color-scheme-orange100);
 }
-.home-text22 {
+.home-text21 {
   font-size: 28px;
   font-style: normal;
   font-family: Urbanist;
@@ -447,7 +448,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text23 {
+.home-text22 {
   color: var(--dl-color-scheme-white);
   line-height: 1.5;
 }
@@ -467,7 +468,7 @@
   justify-content: center;
   background-color: var(--dl-color-scheme-orange100);
 }
-.home-text24 {
+.home-text23 {
   font-size: 28px;
   font-style: normal;
   font-family: Urbanist;
@@ -489,7 +490,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text25 {
+.home-text24 {
   color: var(--dl-color-scheme-white);
   line-height: 1.5;
 }
@@ -498,11 +499,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text26 {
+.home-text25 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text27 {
+.home-text26 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -543,11 +544,11 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.home-text30 {
+.home-text29 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text31 {
+.home-text30 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -555,10 +556,10 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.home-text32 {
+.home-text31 {
   font-family: Urbanist;
 }
-.home-text34 {
+.home-text33 {
   color: var(--dl-color-scheme-orange100);
   font-family: Urbanist;
 }
@@ -568,7 +569,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.home-text35 {
+.home-text34 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -579,7 +580,7 @@
   width: 12px;
   height: 12px;
 }
-.home-text36 {
+.home-text35 {
   margin-top: 8px;
 }
 .home-trigger1 {
@@ -588,7 +589,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.home-text37 {
+.home-text36 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -599,7 +600,7 @@
   width: 12px;
   height: 12px;
 }
-.home-text38 {
+.home-text37 {
   margin-top: 8px;
 }
 .home-trigger2 {
@@ -608,7 +609,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.home-text39 {
+.home-text38 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -619,7 +620,7 @@
   width: 12px;
   height: 12px;
 }
-.home-text40 {
+.home-text39 {
   margin-top: 8px;
 }
 .home-trigger3 {
@@ -628,7 +629,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.home-text41 {
+.home-text40 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -639,7 +640,7 @@
   width: 12px;
   height: 12px;
 }
-.home-text42 {
+.home-text41 {
   margin-top: 8px;
 }
 .home-image6 {
@@ -658,11 +659,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-1200w.png");
 }
-.home-text43 {
+.home-text42 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text44 {
+.home-text43 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -672,7 +673,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text50 {
+.home-text49 {
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
@@ -724,9 +725,12 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.home-text54 {
+.home-text53 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.home-text54 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text55 {
   margin-bottom: var(--dl-space-space-unit);
@@ -737,12 +741,12 @@
 .home-text57 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text58 {
-  margin-bottom: var(--dl-space-space-unit);
-}
-.home-text60 {
+.home-text59 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.home-text60 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text61 {
   margin-bottom: var(--dl-space-space-unit);
@@ -753,12 +757,12 @@
 .home-text63 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text64 {
-  margin-bottom: var(--dl-space-space-unit);
-}
-.home-text66 {
+.home-text65 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.home-text66 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text67 {
   margin-bottom: var(--dl-space-space-unit);
@@ -772,12 +776,12 @@
 .home-text70 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text71 {
-  margin-bottom: var(--dl-space-space-unit);
-}
-.home-text73 {
+.home-text72 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.home-text73 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text74 {
   margin-bottom: var(--dl-space-space-unit);
@@ -785,15 +789,15 @@
 .home-text75 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text76 {
+.home-text78 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text79 {
-  margin-bottom: var(--dl-space-space-unit);
-}
-.home-text82 {
+.home-text81 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.home-text82 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text83 {
   margin-bottom: var(--dl-space-space-unit);
@@ -801,12 +805,12 @@
 .home-text84 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text85 {
-  margin-bottom: var(--dl-space-space-unit);
-}
-.home-text87 {
+.home-text86 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.home-text87 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text88 {
   margin-bottom: var(--dl-space-space-unit);
@@ -818,9 +822,6 @@
   margin-bottom: var(--dl-space-space-unit);
 }
 .home-text91 {
-  margin-bottom: var(--dl-space-space-unit);
-}
-.home-text92 {
   margin-bottom: var(--dl-space-space-unit);
 }
 @media(max-width: 991px) {
