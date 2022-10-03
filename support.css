@@ -6,23 +6,23 @@
   max-width: 450px;
   min-height: 480px;
   align-items: center;
-  border-radius: 36px;
+  border-radius: Radius-Round;
   flex-direction: column;
   background-size: cover;
   justify-content: flex-end;
   background-image: url("public/playground_assets/rectangle%2035-1500w.png");
 }
 .card-info {
-  flex: 0 0 auto;
-  width: 100%;
+  width: 362px;
+  height: 92px;
   display: flex;
   align-items: flex-start;
-  padding-top: var(--dl-space-space-unit);
+  padding-top: var(--dl-space-space-halfunit);
   padding-left: var(--dl-space-space-twounits);
   border-radius: 20px;
   padding-right: var(--dl-space-space-twounits);
   flex-direction: column;
-  padding-bottom: var(--dl-space-space-unit);
+  padding-bottom: var(--dl-space-space-halfunit);
   background-color: var(--dl-color-scheme-white);
 }
 .card-text {
@@ -72,6 +72,15 @@
   background-size: cover;
   background-image: url("public/playground_assets/rectangle%2035%20%5B2%5D-200h.png");
 }
+
+.card-root-class-name13 {
+  background-size: cover;
+  background-image: url("public/playground_assets/rectangle%2035%20%5B1%5D-200h.png");
+}
+.card-root-class-name14 {
+  background-size: cover;
+  background-image: url("public/playground_assets/rectangle%2035%20%5B2%5D-200h.png");
+}
 @media(max-width: 767px) {
   .card-card {
     width: 100%;
@@ -110,6 +119,15 @@
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
   .card-root-class-name11 {
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .card-root-class-name12 {
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .card-root-class-name13 {
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .card-root-class-name14 {
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
 }
