@@ -361,6 +361,7 @@
     margin-right: 300px;
   }
   .home-image2 {
+    width: var(--dl-size-size-xxlarge);
     margin-top: var(--dl-space-space-oneandhalfunits);
   }
   .home-text13 {
