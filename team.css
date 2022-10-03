@@ -145,7 +145,7 @@
   padding-bottom: var(--dl-space-space-halfunit);
   background-color: #DEE3E7;
 }
-.team-text13 {
+.team-text16 {
   top: 61px;
   left: 0px;
   color: black;
@@ -193,11 +193,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-500h.png");
 }
-.team-text14 {
+.team-text17 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.team-text15 {
+.team-text18 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -207,7 +207,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.team-text21 {
+.team-text24 {
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
@@ -238,11 +238,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.team-text25 {
+.team-text28 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.team-text26 {
+.team-text29 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -266,7 +266,7 @@
   justify-content: center;
   background-color: #018262;
 }
-.team-text27 {
+.team-text30 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
