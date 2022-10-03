@@ -337,6 +337,17 @@
   font-style: normal;
   font-weight: 400;
 }
+@media(max-width: 1600px) {
+  .home-text {
+    color: Black;
+  }
+  .home-navlink {
+    color: Black;
+  }
+  .home-navlink1 {
+    color: Black;
+  }
+}
 @media(max-width: 991px) {
   .home-max-width1 {
     flex-direction: column;

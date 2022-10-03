@@ -6,6 +6,7 @@
   --dl-size-size-xsmall: 16px;
   --dl-space-space-unit: 16px;
   --dl-size-size-xxlarge: 288px;
+  --dl-color-scheme-black: #000000ff;
   --dl-color-scheme-white: #FFFFFF;
   --dl-size-size-maxwidth: 1144px;
   --dl-radius-radius-round: 50%;
@@ -22,7 +23,7 @@
   --dl-radius-radius-radius8: 8px;
   --dl-space-space-fiveunits: 80px;
   --dl-space-space-fourunits: 64px;
-  --dl-color-scheme-orange100: #ffad61ff;
+  --dl-color-scheme-orange200: #cb7526ff;
   --dl-color-scheme-shopifybg: #018262ff;
   --dl-radius-radius-radius16: 16px;
   --dl-space-space-eightunits: 128px;
@@ -83,7 +84,7 @@
 }
 .button-secondary:hover {
   color: var(--dl-color-scheme-white);
-  background-color: var(--dl-color-scheme-orange100);
+  background-color: var(--dl-color-scheme-orange200);
 }
 .button-primary {
   color: var(--dl-color-scheme-white);
