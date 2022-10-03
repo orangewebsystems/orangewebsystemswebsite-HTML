@@ -235,10 +235,6 @@
 }
 .blog-text10 {
   color: var(--dl-color-scheme-orange200);
-  font-family: Urbanist;
-}
-.blog-text12 {
-  font-family: Urbanist;
 }
 .blog-text13 {
   font-size: 16px;
@@ -767,6 +763,16 @@
   }
   .blog-text02 {
     color: var(--dl-color-scheme-white);
+  }
+  .blog-text09 {
+    line-height: 1.25;
+  }
+  .blog-text10 {
+    color: var(--dl-color-scheme-orange200);
+    font-family: Urbanist;
+  }
+  .blog-text12 {
+    font-family: Urbanist;
   }
 }
 @media(max-width: 991px) {
