@@ -5,12 +5,8 @@
   align-items: center;
   flex-direction: column;
 }
-.team-navlink {
-  display: contents;
-}
 .team-navbar {
   box-shadow: 1px 1px 2px 0px #e0e2e9;
-  text-decoration: none;
 }
 .team-logo {
   display: flex;
@@ -18,10 +14,14 @@
   flex-direction: row;
   justify-content: space-between;
 }
+.team-navlink {
+  display: contents;
+}
 .team-image {
   width: 180px;
   object-fit: cover;
   margin-right: 14px;
+  text-decoration: none;
 }
 .team-links {
   flex: 0 0 auto;
@@ -32,6 +32,7 @@
 .team-text {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
 }
 .team-text01 {
   color: var(--dl-color-scheme-green80);
@@ -59,7 +60,15 @@
   justify-content: flex-start;
   background-color: var(--dl-color-scheme-white);
 }
-.team-text03 {
+.team-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-text04 {
   color: var(--dl-color-scheme-green100);
   font-size: 2.5em;
   align-self: center;
@@ -74,7 +83,7 @@
   margin-bottom: var(--dl-space-space-unit);
   letter-spacing: 1.5px;
 }
-.team-container2 {
+.team-container3 {
   width: auto;
   height: auto;
   display: flex;
@@ -82,7 +91,7 @@
   flex-direction: row;
   justify-content: center;
 }
-.team-container3 {
+.team-container4 {
   flex: 0 0 auto;
   width: 300px;
   height: auto;
@@ -90,7 +99,7 @@
   align-items: center;
   flex-direction: column;
 }
-.team-container4 {
+.team-container5 {
   flex: 0 0 auto;
   width: 400px;
   height: 400px;
@@ -106,11 +115,11 @@
   object-fit: cover;
   border-radius: var(--dl-radius-radius-round);
 }
-.team-text06 {
+.team-text07 {
   font-size: 1.5em;
   margin-top: var(--dl-space-space-twounits);
 }
-.team-container5 {
+.team-container6 {
   width: 50%;
   height: 400px;
   display: flex;
@@ -126,7 +135,7 @@
   margin-left: var(--dl-space-space-threeunits);
   border-radius: var(--dl-radius-radius-round);
 }
-.team-text11 {
+.team-text12 {
   margin-top: var(--dl-space-space-twounits);
 }
 .team-section {
@@ -136,7 +145,7 @@
   padding-bottom: var(--dl-space-space-halfunit);
   background-color: #DEE3E7;
 }
-.team-text12 {
+.team-text13 {
   top: 61px;
   left: 0px;
   color: black;
@@ -162,7 +171,7 @@
   padding-top: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.team-container6 {
+.team-container7 {
   width: 100%;
   height: 406px;
   display: flex;
@@ -184,11 +193,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-500h.png");
 }
-.team-text13 {
+.team-text14 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.team-text14 {
+.team-text15 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -198,7 +207,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.team-text20 {
+.team-text21 {
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
@@ -229,11 +238,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.team-text24 {
+.team-text25 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.team-text25 {
+.team-text26 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -257,14 +266,38 @@
   justify-content: center;
   background-color: #018262;
 }
-.team-text26 {
+.team-text27 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
 }
 @media(max-width: 1600px) {
-  .team-text11 {
+  .team-text {
+    color: var(--dl-color-scheme-black);
+  }
+  .team-text01 {
+    color: var(--dl-color-scheme-black);
+    border-color: var(--dl-color-scheme-green100);
+    border-width: 1px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 3px;
+  }
+  .team-text02 {
+    color: var(--dl-color-scheme-black);
+  }
+  .team-container2 {
+    background-color: var(--dl-color-scheme-shopifybg);
+  }
+  .team-text03 {
+    color: var(--dl-color-scheme-white);
+  }
+  .team-image2 {
+    margin-left: 0px;
+  }
+  .team-text12 {
     font-size: 1.5em;
   }
 }

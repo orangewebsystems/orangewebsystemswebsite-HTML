@@ -35,7 +35,7 @@
   margin-right: var(--dl-space-space-twounits);
   text-decoration: none;
 }
-.home-navlink1 {
+.home-text01 {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
   text-decoration: none;
@@ -58,7 +58,7 @@
   justify-content: center;
   background-color: #E0E2E9;
 }
-.home-text01 {
+.home-text02 {
   color: var(--dl-color-scheme-green100);
   font-size: 2.5em;
   font-style: normal;
@@ -94,7 +94,7 @@
   padding-bottom: var(--dl-space-space-unit);
   background-color: #018262;
 }
-.home-navlink2 {
+.home-navlink1 {
   color: var(--dl-color-scheme-white);
   font-size: 30px;
   font-weight: 700;
@@ -119,11 +119,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text06 {
+.home-text07 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text07 {
+.home-text08 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -131,14 +131,14 @@
   line-height: 1.25;
   margin-bottom: 5px;
 }
-.home-text09 {
+.home-text10 {
   color: var(--dl-color-scheme-orange100);
 }
 .home-image2 {
   width: 100px;
   object-fit: cover;
 }
-.home-text10 {
+.home-text11 {
   font-size: 16px;
   margin-top: var(--dl-space-space-twounits);
   line-height: 1.5;
@@ -151,7 +151,7 @@
   align-items: stretch;
   flex-direction: row;
 }
-.home-navlink3 {
+.home-navlink2 {
   text-decoration: none;
 }
 .home-section1 {
@@ -167,11 +167,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text11 {
+.home-text12 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text12 {
+.home-text13 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -179,14 +179,13 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.home-text13 {
+.home-text14 {
   color: var(--dl-color-scheme-orange100);
-  font-family: Urbanist;
 }
 .home-text15 {
-  font-family: Urbanist;
+  color: var(--dl-color-scheme-orange100);
 }
-.home-text16 {
+.home-text18 {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
@@ -210,7 +209,7 @@
   padding-bottom: var(--dl-space-space-halfunit);
   background-color: #DEE3E7;
 }
-.home-text17 {
+.home-text19 {
   top: 61px;
   left: 0px;
   color: black;
@@ -258,11 +257,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-500h.png");
 }
-.home-text18 {
+.home-text20 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text19 {
+.home-text21 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -272,7 +271,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text25 {
+.home-text27 {
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
@@ -303,11 +302,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text29 {
+.home-text31 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text30 {
+.home-text32 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -331,21 +330,45 @@
   justify-content: center;
   background-color: #018262;
 }
-.home-text31 {
+.home-text33 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
 }
 @media(max-width: 1600px) {
+  .home-navbar {
+    box-shadow: 1px 1px 2px 0px #e1e3e8;
+  }
   .home-text {
     color: Black;
   }
   .home-navlink {
     color: Black;
   }
-  .home-navlink1 {
+  .home-text01 {
     color: Black;
+  }
+  .home-container1 {
+    height: 400px;
+  }
+  .home-text13 {
+    font-size: 42px;
+    font-style: normal;
+    font-family: Urbanist;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+  .home-text14 {
+    color: var(--dl-color-scheme-orange200);
+    font-family: Urbanist;
+  }
+  .home-text15 {
+    color: var(--dl-color-scheme-orange100);
+    font-family: Urbanist;
+  }
+  .home-text17 {
+    font-family: Urbanist;
   }
 }
 @media(max-width: 991px) {

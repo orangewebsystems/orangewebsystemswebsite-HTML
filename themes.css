@@ -34,12 +34,12 @@
 .themes-text:active {
   border-bottom: 1px solid black;
 }
-.themes-text01 {
+.themes-navlink1 {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
   text-decoration: none;
 }
-.themes-navlink1 {
+.themes-text01 {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
   text-decoration: none;
@@ -752,10 +752,10 @@
     border-right-width: 0px;
     border-bottom-width: 3px;
   }
-  .themes-text01 {
+  .themes-navlink1 {
     color: Black;
   }
-  .themes-navlink1 {
+  .themes-text01 {
     color: Black;
   }
 }
