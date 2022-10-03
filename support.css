@@ -81,6 +81,15 @@
   background-size: cover;
   background-image: url("public/playground_assets/rectangle%2035%20%5B2%5D-200h.png");
 }
+
+.card-root-class-name16 {
+  background-size: cover;
+  background-image: db12816f-507e-4a57-a35e-96b5daef957b;
+}
+.card-root-class-name17 {
+  background-size: cover;
+  background-image: 6af9eb12-78c1-4b29-a6db-7649c8ba36d6;
+}
 @media(max-width: 767px) {
   .card-card {
     width: 100%;
@@ -128,6 +137,15 @@
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
   .card-root-class-name14 {
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .card-root-class-name15 {
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .card-root-class-name16 {
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .card-root-class-name17 {
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
 }
