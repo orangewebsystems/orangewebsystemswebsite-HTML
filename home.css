@@ -378,6 +378,12 @@
     margin-bottom: var(--dl-space-space-threeunits);
     letter-spacing: 1.5px;
   }
+  .home-navlink2 {
+    color: var(--dl-color-scheme-white);
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: none;
+  }
   .home-text07 {
     font-size: 42px;
     font-style: normal;
