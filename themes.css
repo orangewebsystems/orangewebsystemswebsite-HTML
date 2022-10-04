@@ -758,6 +758,12 @@
   .themes-navlink2 {
     color: Black;
   }
+  .themes-subtitle {
+    color: var(--dl-color-scheme-shopifybg);
+  }
+  .themes-title {
+    color: var(--dl-color-scheme-black);
+  }
 }
 @media(max-width: 991px) {
   .themes-content {

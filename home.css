@@ -272,7 +272,7 @@
   border-radius: 48px;
   flex-direction: column;
   background-size: cover;
-  background-image: url("public/playground_assets/group%2011-500h.png");
+  background-image: url("public/playground_assets/group%2011-1500w.png");
 }
 .home-text21 {
   color: var(--dl-color-scheme-lightgreen);
@@ -319,11 +319,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text32 {
+.home-text29 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text33 {
+.home-text30 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -347,7 +347,7 @@
   justify-content: center;
   background-color: #018262;
 }
-.home-text34 {
+.home-text31 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
@@ -374,7 +374,14 @@
     margin-right: 300px;
   }
   .home-text07 {
+    font-size: 42px;
+    font-style: normal;
+    font-family: Urbanist;
+    font-weight: 700;
     line-height: 1.25;
+  }
+  .home-navlink3 {
+    text-decoration: none;
   }
   .home-hero-image {
     margin-right: -150px;
@@ -411,6 +418,7 @@
   .home-navlink4 {
     color: var(--dl-color-scheme-white);
     box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
+    border-width: 0px;
     border-radius: 8px;
     text-decoration: none;
     background-color: var(--dl-color-scheme-orange200);
@@ -434,6 +442,35 @@
     font-family: Urbanist;
     font-weight: 400;
     line-height: 1.35;
+  }
+  .home-container5 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: var(--dl-color-scheme-white);
+  }
+  .home-banner {
+    width: 95%;
+  }
+  .home-text22 {
+    color: var(--dl-color-scheme-white);
+    font-size: 42px;
+    font-style: normal;
+    font-family: Urbanist;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+  .home-text28 {
+    color: rgba(255, 255, 255, 0.6);
+  }
+  .home-section3 {
+    background-color: var(--dl-color-scheme-yellow20);
+  }
+  .home-text30 {
+    font-size: 42px;
+    font-style: normal;
+    font-family: Urbanist;
+    font-weight: 700;
+    line-height: 1.25;
   }
 }
 @media(max-width: 991px) {
