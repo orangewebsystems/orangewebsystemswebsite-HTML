@@ -385,16 +385,13 @@
     text-decoration: none;
   }
   .home-text07 {
-    font-size: 42px;
-    font-style: normal;
-    font-family: Urbanist;
-    font-weight: 700;
     line-height: 1.25;
   }
   .home-navlink3 {
     text-decoration: none;
   }
   .home-hero-image {
+    height: 511px;
     margin-right: -150px;
   }
   .home-section1 {
