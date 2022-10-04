@@ -384,6 +384,10 @@
     font-weight: 700;
     text-decoration: none;
   }
+  .home-section {
+    padding-top: 39px;
+    padding-bottom: 40px;
+  }
   .home-text07 {
     line-height: 1.25;
   }
@@ -392,7 +396,8 @@
   }
   .home-hero-image {
     height: 511px;
-    margin-right: -150px;
+    margin-right: -100px;
+    border-radius: var(--dl-radius-radius-round);
   }
   .home-section1 {
     background-color: var(--dl-color-scheme-white);
