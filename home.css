@@ -125,11 +125,6 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.home-text08 {
-  font-size: 16px;
-  line-height: 1.5;
-  margin-bottom: var(--dl-space-space-threeunits);
-}
 .home-image1 {
   width: 100px;
   object-fit: cover;
@@ -162,17 +157,20 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text09 {
+.home-text08 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text10 {
+.home-text09 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
   font-weight: 700;
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
+}
+.home-text10 {
+  color: var(--dl-color-scheme-orange100);
 }
 .home-text11 {
   color: var(--dl-color-scheme-orange100);
@@ -183,10 +181,7 @@
 .home-text13 {
   color: var(--dl-color-scheme-orange100);
 }
-.home-text14 {
-  color: var(--dl-color-scheme-orange100);
-}
-.home-text17 {
+.home-text16 {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
@@ -213,7 +208,7 @@
   padding-bottom: var(--dl-space-space-halfunit);
   background-color: #DEE3E7;
 }
-.home-text18 {
+.home-text17 {
   top: 61px;
   left: 0px;
   color: black;
@@ -239,7 +234,7 @@
   padding-top: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.home-text19 {
+.home-text18 {
   top: 61px;
   left: 0px;
   color: black;
@@ -275,11 +270,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-1500w.png");
 }
-.home-text20 {
+.home-text19 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text21 {
+.home-text20 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -289,7 +284,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text27 {
+.home-text26 {
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
@@ -320,11 +315,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text28 {
+.home-text27 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text29 {
+.home-text28 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -348,7 +343,7 @@
   justify-content: center;
   background-color: #018262;
 }
-.home-text30 {
+.home-text29 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
@@ -395,9 +390,6 @@
   .home-text07 {
     line-height: 1.25;
   }
-  .home-text08 {
-    margin-bottom: var(--dl-space-space-oneandhalfunits);
-  }
   .home-image1 {
     width: 200px;
     margin-bottom: var(--dl-space-space-twounits);
@@ -413,30 +405,30 @@
   .home-section1 {
     background-color: var(--dl-color-scheme-white);
   }
-  .home-text10 {
+  .home-text09 {
     font-size: 42px;
     font-style: normal;
     font-family: Urbanist;
     font-weight: 700;
     line-height: 1.25;
   }
+  .home-text10 {
+    color: var(--dl-color-scheme-orange200);
+    font-family: Urbanist;
+  }
   .home-text11 {
     color: var(--dl-color-scheme-orange200);
     font-family: Urbanist;
   }
   .home-text12 {
-    color: var(--dl-color-scheme-orange200);
-    font-family: Urbanist;
-  }
-  .home-text13 {
     color: var(--dl-color-scheme-orange100);
     font-family: Urbanist;
   }
-  .home-text14 {
+  .home-text13 {
     color: var(--dl-color-scheme-orange200);
     font-family: Urbanist;
   }
-  .home-text16 {
+  .home-text15 {
     font-family: Urbanist;
   }
   .home-navlink4 {
@@ -450,14 +442,14 @@
   .home-hero-image1 {
     margin-right: -150px;
   }
-  .home-text18 {
+  .home-text17 {
     font-size: 24px;
   }
   .home-image4 {
     width: 480px;
     height: 134px;
   }
-  .home-text19 {
+  .home-text18 {
     top: 102px;
     left: 0px;
     color: black;
@@ -475,7 +467,7 @@
   .home-banner {
     width: 95%;
   }
-  .home-text21 {
+  .home-text20 {
     color: var(--dl-color-scheme-white);
     font-size: 42px;
     font-style: normal;
@@ -483,13 +475,13 @@
     font-weight: 700;
     line-height: 1.25;
   }
-  .home-text27 {
+  .home-text26 {
     color: rgba(255, 255, 255, 0.6);
   }
   .home-section3 {
     background-color: var(--dl-color-scheme-yellow20);
   }
-  .home-text29 {
+  .home-text28 {
     font-size: 42px;
     font-style: normal;
     font-family: Urbanist;
