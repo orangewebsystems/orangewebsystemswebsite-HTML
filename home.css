@@ -77,7 +77,7 @@
   display: flex;
   align-self: center;
   align-items: center;
-  padding-top: var(--dl-space-space-twounits);
+  padding-top: 44px;
   flex-direction: column;
   padding-bottom: var(--dl-space-space-halfunit);
   justify-content: center;
@@ -85,7 +85,7 @@
 }
 .home-text01 {
   color: var(--dl-color-scheme-green100);
-  width: 1134px;
+  width: 919px;
   height: 78px;
   font-size: 1.5em;
   font-style: normal;
