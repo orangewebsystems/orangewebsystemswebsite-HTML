@@ -54,9 +54,12 @@
   text-decoration: none;
 }
 .home-link {
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
   font-family: Titillium Web;
   font-weight: 700;
+  border-width: 0px;
   text-decoration: none;
+  background-color: var(--dl-color-scheme-shopifybg);
 }
 .home-burger-menu {
   fill: #105749;
@@ -137,15 +140,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-navlink3 {
+.home-button {
   color: var(--dl-color-scheme-white);
-  width: 195px;
-  height: var(--dl-size-size-small);
-  align-self: center;
   font-weight: 700;
+  border-width: 0px;
   border-radius: 5px;
-  text-decoration: none;
-  background-color: var(--dl-color-scheme-green100);
+  background-color: var(--dl-color-scheme-shopifybg);
 }
 .home-section {
   padding-top: var(--dl-space-space-twounits);
@@ -181,7 +181,7 @@
   align-items: stretch;
   flex-direction: row;
 }
-.home-navlink4 {
+.home-navlink3 {
   text-decoration: none;
 }
 .home-hero-image {
@@ -239,7 +239,7 @@
   align-items: stretch;
   flex-direction: row;
 }
-.home-navlink5 {
+.home-navlink4 {
   text-decoration: none;
 }
 .home-hero-image1 {
@@ -341,7 +341,7 @@
   align-items: stretch;
   flex-direction: row;
 }
-.home-button {
+.home-button1 {
   font-size: 16px;
   padding-top: 12px;
   margin-right: var(--dl-space-space-unit);
@@ -349,7 +349,7 @@
   padding-right: 24px;
   padding-bottom: 12px;
 }
-.home-button1 {
+.home-button2 {
   padding-top: 12px;
   margin-right: 0px;
   padding-left: 24px;
