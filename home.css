@@ -148,6 +148,8 @@
   background-color: var(--dl-color-scheme-green100);
 }
 .home-section {
+  padding-top: var(--dl-space-space-twounits);
+  padding-bottom: 36px;
   background-color: rgba(255, 199, 139, 0.14);
 }
 .home-max-width1 {
@@ -183,9 +185,10 @@
   text-decoration: none;
 }
 .home-hero-image {
+  width: 400px;
   object-fit: contain;
-  margin-right: -250px;
-  border-radius: 48px;
+  margin-right: -100px;
+  border-radius: var(--dl-radius-radius-round);
 }
 .home-section1 {
   background-color: rgba(255, 199, 139, 0.14);
