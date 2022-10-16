@@ -39,11 +39,6 @@
 .contact-text01 {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
-  text-decoration: none;
-}
-.contact-text02 {
-  color: var(--dl-color-scheme-green80);
-  margin-right: var(--dl-space-space-twounits);
 }
 .contact-burger-menu {
   fill: #105749;
@@ -55,11 +50,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.contact-text03 {
+.contact-text02 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.contact-text04 {
+.contact-text03 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -90,11 +85,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-500h.png");
 }
-.contact-text05 {
+.contact-text04 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.contact-text06 {
+.contact-text05 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -104,7 +99,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.contact-text07 {
+.contact-text06 {
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
@@ -146,7 +141,7 @@
   justify-content: center;
   background-color: #018262;
 }
-.contact-text14 {
+.contact-text13 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;

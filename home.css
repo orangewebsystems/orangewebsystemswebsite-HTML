@@ -48,12 +48,6 @@
   margin-right: var(--dl-space-space-twounits);
   text-decoration: none;
 }
-.home-navlink2 {
-  color: var(--dl-color-scheme-green80);
-  font-weight: bold;
-  margin-right: var(--dl-space-space-twounits);
-  text-decoration: none;
-}
 .home-link {
   box-shadow: 5px 5px 10px 0px #d4d4d4;
   transition: 0.3s;
@@ -156,7 +150,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-navlink3 {
+.home-navlink2 {
   color: var(--dl-color-scheme-shopifybg);
   font-weight: 700;
   padding-top: 18px;
@@ -201,7 +195,7 @@
   align-items: stretch;
   flex-direction: row;
 }
-.home-navlink4 {
+.home-navlink3 {
   color: var(--dl-color-scheme-white);
   box-shadow: 5px 5px 10px 0px #d4d4d4;
   font-family: Titillium Web;
@@ -290,7 +284,7 @@
   align-items: stretch;
   flex-direction: row;
 }
-.home-navlink5 {
+.home-navlink4 {
   text-decoration: none;
 }
 .home-hero-image1 {
