@@ -121,12 +121,20 @@
   padding-bottom: var(--dl-space-space-eightunits);
 }
 .themes-subtitle {
-  color: Black;
+  color: var(--dl-color-scheme-shopifybg);
+  font-size: 14px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 800;
+  line-height: 1.15;
   margin-left: 5px;
   margin-bottom: 2px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-decoration: none;
 }
 .themes-title {
-  color: var(--dl-color-scheme-shopifybg);
+  color: var(--dl-color-scheme-black);
   font-size: 52px;
   font-style: normal;
   font-family: Urbanist;
