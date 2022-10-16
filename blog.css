@@ -739,42 +739,6 @@
 .blog-text88 {
   margin-bottom: var(--dl-space-space-unit);
 }
-@media(max-width: 1600px) {
-  .blog-text {
-    color: var(--dl-color-scheme-black);
-    border-color: var(--dl-color-scheme-green100);
-    border-width: 1px;
-    border-top-width: 0px;
-    border-left-width: 0px;
-    border-right-width: 0px;
-    border-bottom-width: 0px;
-  }
-  .blog-navlink1 {
-    color: Black;
-    border-color: var(--dl-color-scheme-green100);
-    border-width: 1px;
-    border-top-width: 0px;
-    border-left-width: 0px;
-    border-right-width: 0px;
-    border-bottom-width: 3px;
-  }
-  .blog-text01 {
-    color: Black;
-  }
-  .blog-text02 {
-    color: var(--dl-color-scheme-white);
-  }
-  .blog-text09 {
-    line-height: 1.25;
-  }
-  .blog-text10 {
-    color: var(--dl-color-scheme-orange200);
-    font-family: Urbanist;
-  }
-  .blog-text12 {
-    font-family: Urbanist;
-  }
-}
 @media(max-width: 991px) {
   .blog-content {
     width: 50%;

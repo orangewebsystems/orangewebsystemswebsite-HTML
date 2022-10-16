@@ -5,7 +5,11 @@
   align-items: center;
   flex-direction: column;
 }
+.themes-navbar {
+  height: 120px;
+}
 .themes-logo {
+  width: 180px;
   display: flex;
   align-items: center;
   flex-direction: row;
@@ -15,7 +19,8 @@
   display: contents;
 }
 .themes-image {
-  width: 180px;
+  width: 220px;
+  height: 100px;
   object-fit: cover;
   margin-right: 14px;
   text-decoration: none;
@@ -29,6 +34,7 @@
 .themes-text {
   color: var(--dl-color-scheme-green80);
   transition: 0.3s;
+  font-weight: bold;
   margin-right: var(--dl-space-space-twounits);
 }
 .themes-text:active {
@@ -36,15 +42,18 @@
 }
 .themes-navlink1 {
   color: var(--dl-color-scheme-green80);
+  font-weight: bold;
   margin-right: var(--dl-space-space-twounits);
   text-decoration: none;
 }
 .themes-navlink2 {
   color: var(--dl-color-scheme-green80);
+  font-weight: bold;
   margin-right: var(--dl-space-space-twounits);
   text-decoration: none;
 }
 .themes-link {
+  font-weight: 700;
   text-decoration: none;
 }
 .themes-burger-menu {
@@ -745,29 +754,6 @@
 }
 .themes-text87 {
   margin-bottom: var(--dl-space-space-unit);
-}
-@media(max-width: 1600px) {
-  .themes-text {
-    color: var(--dl-color-scheme-black);
-    border-color: var(--dl-color-scheme-green100);
-    border-width: 1px;
-    border-top-width: 0px;
-    border-left-width: 0px;
-    border-right-width: 0px;
-    border-bottom-width: 3px;
-  }
-  .themes-navlink1 {
-    color: Black;
-  }
-  .themes-navlink2 {
-    color: Black;
-  }
-  .themes-subtitle {
-    color: var(--dl-color-scheme-shopifybg);
-  }
-  .themes-title {
-    color: var(--dl-color-scheme-black);
-  }
 }
 @media(max-width: 991px) {
   .themes-content {

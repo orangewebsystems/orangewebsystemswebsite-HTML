@@ -272,35 +272,6 @@
   font-style: normal;
   font-weight: 400;
 }
-@media(max-width: 1600px) {
-  .team-text {
-    color: var(--dl-color-scheme-black);
-  }
-  .team-text01 {
-    color: var(--dl-color-scheme-black);
-    border-color: var(--dl-color-scheme-green100);
-    border-width: 1px;
-    border-top-width: 0px;
-    border-left-width: 0px;
-    border-right-width: 0px;
-    border-bottom-width: 3px;
-  }
-  .team-text02 {
-    color: var(--dl-color-scheme-black);
-  }
-  .team-container2 {
-    background-color: var(--dl-color-scheme-shopifybg);
-  }
-  .team-text03 {
-    color: var(--dl-color-scheme-white);
-  }
-  .team-image2 {
-    margin-left: 0px;
-  }
-  .team-text12 {
-    font-size: 1.5em;
-  }
-}
 @media(max-width: 991px) {
   .team-max-width1 {
     flex-direction: column;
