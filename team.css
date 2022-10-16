@@ -43,6 +43,10 @@
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
 }
+.team-button {
+  font-family: Titillium Web;
+  font-weight: 700;
+}
 .team-burger-menu {
   fill: #105749;
   width: 24px;
