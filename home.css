@@ -55,11 +55,15 @@
 }
 .home-link {
   box-shadow: 5px 5px 10px 0px #d4d4d4;
+  transition: 0.3s;
   font-family: Titillium Web;
   font-weight: 700;
   border-width: 0px;
   text-decoration: none;
   background-color: var(--dl-color-scheme-shopifybg);
+}
+.home-link:hover {
+  background-color: #E0E2E9;
 }
 .home-burger-menu {
   fill: #105749;
