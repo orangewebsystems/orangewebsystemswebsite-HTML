@@ -136,7 +136,7 @@
   display: contents;
 }
 .home-image1 {
-  width: var(--dl-size-size-xxlarge);
+  width: 200px;
   object-fit: cover;
   text-decoration: none;
 }
