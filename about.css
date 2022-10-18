@@ -173,15 +173,6 @@
   align-items: stretch;
   flex-direction: row;
 }
-.about-navlink1 {
-  font-size: 16px;
-  padding-top: 12px;
-  margin-right: var(--dl-space-space-unit);
-  padding-left: 24px;
-  padding-right: 24px;
-  padding-bottom: 12px;
-  text-decoration: none;
-}
 .about-link {
   padding-top: 12px;
   margin-right: 0px;
