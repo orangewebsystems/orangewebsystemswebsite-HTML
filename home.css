@@ -7,7 +7,7 @@
   background-color: var(--dl-color-scheme-white);
 }
 .home-navbar {
-  height: 120px;
+  height: 87.8px;
 }
 .home-logo {
   width: 180px;
@@ -20,8 +20,8 @@
   display: contents;
 }
 .home-image {
-  width: 220px;
-  height: 100px;
+  width: 112px;
+  height: 48px;
   object-fit: cover;
   margin-right: 14px;
   text-decoration: none;

@@ -6,7 +6,7 @@
   flex-direction: column;
 }
 .news-navbar {
-  height: 120px;
+  height: 87.8px;
   box-shadow: 1px 1px 2px 0px #e0e2e9;
 }
 .news-logo {
@@ -19,8 +19,8 @@
   display: contents;
 }
 .news-image {
-  width: 220px;
-  height: 100px;
+  width: 117px;
+  height: 48px;
   object-fit: cover;
   margin-right: 14px;
   text-decoration: none;

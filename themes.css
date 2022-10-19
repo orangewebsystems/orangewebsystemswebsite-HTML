@@ -6,7 +6,7 @@
   flex-direction: column;
 }
 .themes-navbar {
-  height: 120px;
+  height: 87.8px;
 }
 .themes-logo {
   width: 180px;
@@ -19,8 +19,8 @@
   display: contents;
 }
 .themes-image {
-  width: 220px;
-  height: 100px;
+  width: 112px;
+  height: 48px;
   object-fit: cover;
   margin-right: 14px;
   text-decoration: none;
