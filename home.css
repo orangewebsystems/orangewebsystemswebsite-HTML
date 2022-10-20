@@ -222,7 +222,7 @@
   width: 400px;
   object-fit: contain;
   margin-right: -100px;
-  border-radius: var(--dl-radius-radius-round);
+  border-radius: var(--dl-radius-radius-radius2);
 }
 .home-container07 {
   flex: 0 0 auto;
