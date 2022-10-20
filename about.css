@@ -84,6 +84,8 @@
 }
 .about-max-width1 {
   align-items: center;
+  border-color: var(--dl-color-scheme-green100);
+  border-width: 1px;
   flex-direction: column;
   justify-content: center;
 }
@@ -132,8 +134,15 @@
 .about-section2 {
   height: 236px;
   padding-top: 54px;
+  border-color: var(--dl-color-scheme-orange200);
+  border-style: dashed;
+  border-width: 1px;
   padding-bottom: 58px;
   background-color: var(--dl-color-scheme-white);
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
 }
 .about-max-width3 {
   align-items: center;
