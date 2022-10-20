@@ -40,9 +40,10 @@
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
 }
-.about-text02 {
+.about-navlink1 {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
 }
 .about-button {
   box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
@@ -65,7 +66,7 @@
   justify-content: center;
   background-color: #018262;
 }
-.about-text03 {
+.about-text02 {
   color: var(--dl-color-scheme-white);
 }
 .about-section {
@@ -89,12 +90,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.about-text04 {
+.about-text03 {
   color: var(--dl-color-scheme-green80);
   align-self: flex-start;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.about-text05 {
+.about-text04 {
   font-size: 32px;
   align-self: flex-start;
   font-style: normal;
@@ -115,13 +116,13 @@
   flex-direction: column;
   justify-content: center;
 }
-.about-text06 {
+.about-text05 {
   color: var(--dl-color-scheme-green80);
   align-self: flex-start;
   text-align: left;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.about-text07 {
+.about-text06 {
   width: 1102px;
   font-size: 32px;
   font-style: normal;
@@ -149,13 +150,13 @@
   flex-direction: column;
   justify-content: center;
 }
-.about-text08 {
+.about-text07 {
   color: var(--dl-color-scheme-green80);
   align-self: flex-start;
   text-align: left;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.about-text09 {
+.about-text08 {
   width: 1102px;
   font-size: 32px;
   font-style: normal;
@@ -187,11 +188,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-500h.png");
 }
-.about-text10 {
+.about-text09 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.about-text11 {
+.about-text10 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -201,7 +202,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.about-text12 {
+.about-text11 {
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
@@ -235,7 +236,7 @@
   justify-content: center;
   background-color: #018262;
 }
-.about-text18 {
+.about-text17 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
