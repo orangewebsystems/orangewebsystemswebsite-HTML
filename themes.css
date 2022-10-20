@@ -633,31 +633,19 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text45 {
-  color: rgba(255, 255, 255, 0.6);
-  text-align: center;
-  margin-bottom: var(--dl-space-space-twounits);
-}
 .themes-btns {
   flex: 0 0 auto;
   display: flex;
   align-items: stretch;
   flex-direction: row;
 }
-.themes-button2 {
-  font-size: 16px;
-  padding-top: 12px;
-  margin-right: var(--dl-space-space-unit);
-  padding-left: 24px;
-  padding-right: 24px;
-  padding-bottom: 12px;
-}
-.themes-button3 {
+.themes-link3 {
   padding-top: 12px;
   margin-right: 0px;
   padding-left: 24px;
   padding-right: 24px;
   padding-bottom: 12px;
+  text-decoration: none;
 }
 @media(max-width: 991px) {
   .themes-content {
