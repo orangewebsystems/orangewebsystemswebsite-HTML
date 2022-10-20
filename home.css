@@ -260,9 +260,6 @@
   color: var(--dl-color-scheme-shopifybg);
 }
 .home-text13 {
-  color: var(--dl-color-scheme-orange100);
-}
-.home-text14 {
   color: var(--dl-color-scheme-shopifybg);
 }
 .home-hero-image1 {
@@ -291,7 +288,7 @@
   padding-top: var(--dl-space-space-halfunit);
   text-decoration: none;
 }
-.home-text16 {
+.home-text15 {
   color: black;
   font-size: 42px;
   font-style: normal;
@@ -322,11 +319,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-1500w.png");
 }
-.home-text17 {
+.home-text16 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text18 {
+.home-text17 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -336,7 +333,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text24 {
+.home-text23 {
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
@@ -367,7 +364,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text25 {
+.home-text24 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -391,7 +388,7 @@
   justify-content: center;
   background-color: #018262;
 }
-.home-text26 {
+.home-text25 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
