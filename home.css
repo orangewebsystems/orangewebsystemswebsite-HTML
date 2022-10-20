@@ -298,6 +298,8 @@
   text-decoration: none;
 }
 .home-hero-image1 {
+  width: 800px;
+  height: 400px;
   object-fit: contain;
   margin-right: -250px;
   border-radius: 48px;
