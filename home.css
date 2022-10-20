@@ -344,20 +344,13 @@
   align-items: stretch;
   flex-direction: row;
 }
-.home-button {
-  font-size: 16px;
-  padding-top: 12px;
-  margin-right: var(--dl-space-space-unit);
-  padding-left: 24px;
-  padding-right: 24px;
-  padding-bottom: 12px;
-}
-.home-button1 {
+.home-navlink4 {
   padding-top: 12px;
   margin-right: 0px;
   padding-left: 24px;
   padding-right: 24px;
   padding-bottom: 12px;
+  text-decoration: none;
 }
 .home-max-width3 {
   align-items: center;
