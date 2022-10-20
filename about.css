@@ -85,8 +85,6 @@
 }
 .about-max-width1 {
   align-items: center;
-  border-color: var(--dl-color-scheme-green100);
-  border-width: 1px;
   flex-direction: column;
   justify-content: center;
 }
