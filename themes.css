@@ -343,11 +343,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-1300w.png");
 }
-.themes-text17 {
+.themes-text15 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text18 {
+.themes-text16 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -386,7 +386,7 @@
   justify-content: center;
   background-color: #018262;
 }
-.themes-text24 {
+.themes-text22 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
