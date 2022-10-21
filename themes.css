@@ -207,6 +207,9 @@
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
+.themes-section {
+  background-color: var(--dl-color-scheme-white);
+}
 .themes-max-width2 {
   align-items: stretch;
 }
@@ -250,7 +253,7 @@
   flex-direction: row;
 }
 .themes-section1 {
-  background-color: rgba(255, 199, 139, 0.14);
+  background-color: var(--dl-color-scheme-yellow20);
 }
 .themes-max-width3 {
   align-items: stretch;
@@ -297,6 +300,9 @@
   object-fit: contain;
   margin-right: -250px;
   border-radius: 48px;
+}
+.themes-section2 {
+  background-color: var(--dl-color-scheme-white);
 }
 .themes-max-width4 {
   align-items: center;
