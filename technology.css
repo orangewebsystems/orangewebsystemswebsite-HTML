@@ -67,7 +67,7 @@
   height: 24px;
 }
 .technology-section {
-  height: 580px;
+  height: 523px;
   padding-top: 52px;
   padding-bottom: var(--dl-space-space-halfunit);
   background-color: var(--dl-color-scheme-grey);
@@ -111,13 +111,13 @@
   object-fit: cover;
 }
 .technology-section1 {
-  height: 580px;
+  height: 318px;
   padding-top: 52px;
   padding-bottom: var(--dl-space-space-halfunit);
   background-color: var(--dl-color-scheme-white);
 }
 .technology-max-width2 {
-  height: 249px;
+  height: 144px;
   align-items: center;
   flex-direction: column;
   justify-content: center;
