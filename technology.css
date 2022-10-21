@@ -4,6 +4,7 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
+  background-color: var(--dl-color-scheme-white);
 }
 .technology-navbar {
   height: 87.8px;
@@ -66,10 +67,10 @@
   height: 24px;
 }
 .technology-section {
-  height: 563px;
+  height: 580px;
   padding-top: 52px;
   padding-bottom: var(--dl-space-space-halfunit);
-  background-color: var(--dl-color-scheme-yellow20);
+  background-color: var(--dl-color-scheme-separator);
 }
 .technology-max-width1 {
   height: 249px;
