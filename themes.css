@@ -220,10 +220,10 @@
   align-items: stretch;
 }
 .themes-hero-image1 {
-  width: 756px;
-  height: 655px;
+  width: 562px;
+  height: 483px;
   object-fit: contain;
-  margin-left: -250px;
+  margin-left: -150px;
   border-radius: 48px;
 }
 .themes-content1 {
