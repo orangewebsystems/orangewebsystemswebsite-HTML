@@ -214,6 +214,9 @@
   border-bottom-right-radius: 0;
 }
 .themes-section {
+  height: 544px;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-bottom: 28px;
   background-color: var(--dl-color-scheme-white);
 }
 .themes-max-width2 {
@@ -249,8 +252,9 @@
   color: var(--dl-color-scheme-orange100);
 }
 .themes-section1 {
-  height: 789px;
+  height: 602px;
   padding-top: 21px;
+  padding-bottom: 20px;
   background-color: var(--dl-color-scheme-grey);
 }
 .themes-max-width3 {
