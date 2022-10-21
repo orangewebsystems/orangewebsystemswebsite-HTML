@@ -65,7 +65,7 @@
   width: 24px;
   height: 24px;
 }
-.themes-container01 {
+.themes-container1 {
   flex: 0 0 auto;
   width: 100%;
   height: 100px;
@@ -91,7 +91,7 @@
   padding-left: 0px;
   background-color: #E0E2E9;
 }
-.themes-container02 {
+.themes-container2 {
   flex: 0 0 auto;
   width: 100%;
   height: auto;
@@ -99,7 +99,7 @@
   align-items: space-between;
   flex-direction: column;
 }
-.themes-container03 {
+.themes-container3 {
   width: 835px;
   height: 247px;
   display: flex;
@@ -168,7 +168,7 @@
   object-fit: contain;
   object-position: center;
 }
-.themes-container04 {
+.themes-container4 {
   flex: 0 0 auto;
   width: 742px;
   height: 193px;
@@ -242,7 +242,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
 }
-.themes-container05 {
+.themes-container5 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
@@ -286,7 +286,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
 }
-.themes-container06 {
+.themes-container6 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
@@ -298,180 +298,16 @@
   margin-right: -250px;
   border-radius: 48px;
 }
-.themes-section2 {
-  background-color: var(--dl-color-scheme-green100);
-}
 .themes-max-width4 {
-  align-items: stretch;
-}
-.themes-image5 {
-  width: 50%;
-}
-.themes-hero-image3 {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 48px;
-}
-.themes-content3 {
-  width: 40%;
-  display: flex;
-  margin-top: var(--dl-space-space-twounits);
-  margin-bottom: var(--dl-space-space-twounits);
+  align-items: center;
   flex-direction: column;
   justify-content: center;
 }
 .themes-text13 {
-  color: var(--dl-color-scheme-white);
-  margin-bottom: var(--dl-space-space-unit);
-}
-.themes-text14 {
-  color: var(--dl-color-scheme-white);
-  font-size: 42px;
-  font-style: normal;
-  font-family: Urbanist;
-  font-weight: 700;
-  line-height: 1.35;
-  margin-bottom: var(--dl-space-space-twounits);
-}
-.themes-step {
-  display: flex;
-  margin-bottom: var(--dl-space-space-twounits);
-  flex-direction: row;
-}
-.themes-number {
-  flex: 0 0 auto;
-  width: 64px;
-  height: 64px;
-  display: flex;
-  align-items: center;
-  margin-right: var(--dl-space-space-twounits);
-  border-radius: var(--dl-radius-radius-radius16);
-  flex-direction: column;
-  justify-content: center;
-  background-color: var(--dl-color-scheme-orange200);
-}
-.themes-text15 {
-  font-size: 28px;
-  font-style: normal;
-  font-family: Urbanist;
-  font-weight: 700;
-  line-height: 1.5;
-}
-.themes-container07 {
-  flex: 1;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-}
-.themes-title1 {
-  color: var(--dl-color-scheme-white);
-  font-size: 24px;
-  font-style: normal;
-  font-family: Urbanist;
-  font-weight: 700;
-  line-height: 1.5;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.themes-text16 {
-  color: var(--dl-color-scheme-white);
-  line-height: 1.5;
-}
-.themes-step1 {
-  display: flex;
-  margin-bottom: var(--dl-space-space-twounits);
-  flex-direction: row;
-}
-.themes-number1 {
-  flex: 0 0 auto;
-  width: 64px;
-  height: 64px;
-  display: flex;
-  align-items: center;
-  margin-right: var(--dl-space-space-twounits);
-  border-radius: var(--dl-radius-radius-radius16);
-  flex-direction: column;
-  justify-content: center;
-  background-color: var(--dl-color-scheme-orange200);
-}
-.themes-text17 {
-  font-size: 28px;
-  font-style: normal;
-  font-family: Urbanist;
-  font-weight: 700;
-  line-height: 1.5;
-}
-.themes-container08 {
-  flex: 1;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-}
-.themes-title2 {
-  color: var(--dl-color-scheme-white);
-  font-size: 24px;
-  font-style: normal;
-  font-family: Urbanist;
-  font-weight: 700;
-  line-height: 1.5;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.themes-text18 {
-  color: var(--dl-color-scheme-white);
-  line-height: 1.5;
-}
-.themes-step2 {
-  display: flex;
-  flex-direction: row;
-}
-.themes-number2 {
-  flex: 0 0 auto;
-  width: 64px;
-  height: 64px;
-  display: flex;
-  align-items: center;
-  margin-right: var(--dl-space-space-twounits);
-  border-radius: var(--dl-radius-radius-radius16);
-  flex-direction: column;
-  justify-content: center;
-  background-color: var(--dl-color-scheme-orange200);
-}
-.themes-text19 {
-  font-size: 28px;
-  font-style: normal;
-  font-family: Urbanist;
-  font-weight: 700;
-  line-height: 1.5;
-}
-.themes-container09 {
-  flex: 1;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-}
-.themes-title3 {
-  color: var(--dl-color-scheme-white);
-  font-size: 24px;
-  font-style: normal;
-  font-family: Urbanist;
-  font-weight: 700;
-  line-height: 1.5;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.themes-text20 {
-  color: var(--dl-color-scheme-white);
-  line-height: 1.5;
-}
-.themes-max-width5 {
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-}
-.themes-text21 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text22 {
+.themes-text14 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -480,150 +316,31 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-threeunits);
 }
-.themes-section4 {
+.themes-section3 {
   padding-top: 0px;
 }
-.themes-max-width6 {
+.themes-max-width5 {
+  width: 1286px;
   align-items: center;
   flex-direction: column;
   justify-content: center;
 }
-.themes-f-a-q {
-  flex: 0 0 auto;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  margin-bottom: var(--dl-space-space-eightunits);
-  flex-direction: row;
-  justify-content: space-between;
-}
-.themes-questions {
-  flex: 0 0 auto;
-  width: 50%;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-}
-.themes-text25 {
-  color: var(--dl-color-scheme-green80);
-  margin-bottom: var(--dl-space-space-unit);
-}
-.themes-text26 {
-  font-size: 42px;
-  font-style: normal;
-  font-family: Urbanist;
-  font-weight: 700;
-  line-height: 1.25;
-  margin-bottom: var(--dl-space-space-twounits);
-}
-.themes-text27 {
-  font-family: Urbanist;
-}
-.themes-text29 {
-  color: var(--dl-color-scheme-orange200);
-  font-family: Urbanist;
-}
-.themes-trigger {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.themes-text30 {
-  font-size: 20px;
-  font-style: normal;
-  font-family: Urbanist;
-  font-weight: 600;
-  line-height: 1.5;
-}
-.themes-icon02 {
-  width: 12px;
-  height: 12px;
-}
-.themes-text31 {
-  margin-top: 8px;
-}
-.themes-trigger1 {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.themes-text32 {
-  font-size: 20px;
-  font-style: normal;
-  font-family: Urbanist;
-  font-weight: 600;
-  line-height: 1.5;
-}
-.themes-icon04 {
-  width: 12px;
-  height: 12px;
-}
-.themes-text33 {
-  margin-top: 8px;
-}
-.themes-trigger2 {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.themes-text34 {
-  font-size: 20px;
-  font-style: normal;
-  font-family: Urbanist;
-  font-weight: 600;
-  line-height: 1.5;
-}
-.themes-icon06 {
-  width: 12px;
-  height: 12px;
-}
-.themes-text35 {
-  margin-top: 8px;
-}
-.themes-trigger3 {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.themes-text36 {
-  font-size: 20px;
-  font-style: normal;
-  font-family: Urbanist;
-  font-weight: 600;
-  line-height: 1.5;
-}
-.themes-icon08 {
-  width: 12px;
-  height: 12px;
-}
-.themes-text37 {
-  margin-top: 8px;
-}
-.themes-image6 {
-  width: 50%;
-  object-fit: cover;
-  margin-right: -200px;
-}
 .themes-banner {
   flex: 0 0 auto;
-  width: 1079px;
+  width: 1269px;
   display: flex;
   padding: var(--dl-space-space-fourunits);
   align-items: center;
   border-radius: 48px;
   flex-direction: column;
   background-size: cover;
-  background-image: url("public/playground_assets/group%2011-1100w.png");
+  background-image: url("public/playground_assets/group%2011-1300w.png");
 }
-.themes-text38 {
+.themes-text17 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text39 {
+.themes-text18 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -694,31 +411,8 @@
   .themes-max-width4 {
     flex-direction: column;
   }
-  .themes-image5 {
-    width: 100%;
-    padding-bottom: var(--dl-space-space-threeunits);
-  }
-  .themes-hero-image3 {
-    width: 100%;
-    margin-left: 0px;
-    margin-bottom: 0px;
-  }
-  .themes-content3 {
-    width: 100%;
-    margin-left: 0px;
-    margin-right: 0px;
-  }
   .themes-max-width5 {
     flex-direction: column;
-  }
-  .themes-max-width6 {
-    flex-direction: column;
-  }
-  .themes-questions {
-    width: 60%;
-  }
-  .themes-image6 {
-    margin-right: -100px;
   }
 }
 @media(max-width: 767px) {
@@ -743,22 +437,6 @@
     margin-right: 0px;
   }
   .themes-content2 {
-    width: 100%;
-    margin-right: 0px;
-  }
-  .themes-content3 {
-    width: 100%;
-    margin-right: 0px;
-  }
-  .themes-f-a-q {
-    margin-bottom: var(--dl-space-space-twounits);
-    flex-direction: column;
-  }
-  .themes-questions {
-    width: 100%;
-    margin-bottom: var(--dl-space-space-oneandhalfunits);
-  }
-  .themes-image6 {
     width: 100%;
     margin-right: 0px;
   }
