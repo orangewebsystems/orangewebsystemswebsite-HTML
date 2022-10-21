@@ -148,12 +148,13 @@
   font-family: Urbanist;
   font-weight: 600;
   line-height: 1.2;
-  margin-bottom: var(--dl-space-space-twounits);
+  margin-bottom: 12px;
 }
 .themes-description {
   color: var(--dl-color-scheme-green80);
   font-size: 18px;
   line-height: 1.5;
+  padding-top: var(--dl-space-space-twounits);
   margin-bottom: var(--dl-space-space-threeunits);
 }
 .themes-container4 {
@@ -175,13 +176,13 @@
   justify-content: flex-start;
 }
 .themes-link1 {
-  width: 185px;
+  width: 135px;
   align-self: flex-start;
   padding-right: 0px;
   text-decoration: none;
 }
 .themes-link2 {
-  width: 185px;
+  width: 139px;
   align-self: flex-start;
   margin-left: var(--dl-space-space-threeunits);
   padding-right: 0px;
@@ -266,11 +267,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text02 {
+.themes-text03 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text03 {
+.themes-text04 {
   width: 646px;
   font-size: 42px;
   align-self: flex-start;
@@ -280,7 +281,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.themes-text05 {
+.themes-text06 {
   color: var(--dl-color-scheme-orange100);
 }
 .themes-section1 {
@@ -299,11 +300,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text06 {
+.themes-text07 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text07 {
+.themes-text08 {
   width: 542px;
   font-size: 42px;
   font-style: normal;
@@ -329,11 +330,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text08 {
+.themes-text09 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text09 {
+.themes-text10 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -363,11 +364,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-1300w.png");
 }
-.themes-text10 {
+.themes-text11 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text11 {
+.themes-text12 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -406,7 +407,7 @@
   justify-content: center;
   background-color: #018262;
 }
-.themes-text17 {
+.themes-text18 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
