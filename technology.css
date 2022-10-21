@@ -110,6 +110,10 @@
   height: 127px;
   object-fit: cover;
 }
+.technology-link {
+  padding-top: var(--dl-space-space-twounits);
+  text-decoration: underline;
+}
 .technology-section1 {
   height: 318px;
   padding-top: 52px;
@@ -133,7 +137,7 @@
   line-height: 1.75;
   margin-bottom: var(--dl-space-space-threeunits);
 }
-.technology-link {
+.technology-link1 {
   text-decoration: underline;
 }
 .technology-container3 {
