@@ -157,6 +157,44 @@
   height: 50px;
   object-fit: cover;
 }
+.technology-section2 {
+  height: 460px;
+  padding-top: 52px;
+  padding-bottom: var(--dl-space-space-halfunit);
+  background-color: var(--dl-color-scheme-grey);
+}
+.technology-max-width3 {
+  height: 144px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.technology-text7 {
+  height: 144px;
+  font-size: 22px;
+  font-style: normal;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  text-align: center;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.75;
+  margin-bottom: var(--dl-space-space-threeunits);
+}
+.technology-container5 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.technology-image3 {
+  width: 390px;
+  height: 235px;
+  align-self: center;
+  object-fit: cover;
+}
 .technology-footer {
   width: auto;
   height: 60px;
@@ -172,7 +210,7 @@
   justify-content: center;
   background-color: #018262;
 }
-.technology-text7 {
+.technology-text8 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
@@ -183,6 +221,9 @@
     flex-direction: column;
   }
   .technology-max-width2 {
+    flex-direction: column;
+  }
+  .technology-max-width3 {
     flex-direction: column;
   }
   .technology-footer {
