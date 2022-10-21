@@ -111,6 +111,7 @@
   object-fit: cover;
 }
 .technology-link {
+  font-weight: 700;
   padding-top: var(--dl-space-space-twounits);
   text-decoration: underline;
 }
