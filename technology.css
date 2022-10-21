@@ -73,7 +73,7 @@
   background-color: var(--dl-color-scheme-grey);
 }
 .technology-max-width1 {
-  height: 249px;
+  height: 50%;
   align-items: center;
   flex-direction: column;
   justify-content: center;
