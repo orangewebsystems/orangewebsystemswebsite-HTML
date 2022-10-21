@@ -70,7 +70,7 @@
   height: 580px;
   padding-top: 52px;
   padding-bottom: var(--dl-space-space-halfunit);
-  background-color: #DEE3E7;
+  background-color: var(--dl-color-scheme-grey);
 }
 .technology-max-width1 {
   height: 249px;
