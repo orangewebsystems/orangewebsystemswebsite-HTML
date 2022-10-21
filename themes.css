@@ -249,6 +249,8 @@
   color: var(--dl-color-scheme-orange100);
 }
 .themes-section1 {
+  height: 789px;
+  padding-top: 21px;
   background-color: var(--dl-color-scheme-grey);
 }
 .themes-max-width3 {
