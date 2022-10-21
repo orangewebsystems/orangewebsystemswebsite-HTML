@@ -214,17 +214,18 @@
   border-bottom-right-radius: 0;
 }
 .themes-section {
-  height: 544px;
+  height: 383px;
   padding-top: var(--dl-space-space-halfunit);
   padding-bottom: 28px;
   background-color: var(--dl-color-scheme-white);
 }
 .themes-max-width2 {
+  width: 1052px;
   align-items: stretch;
 }
 .themes-hero-image1 {
-  width: 562px;
-  height: 483px;
+  width: 361px;
+  height: 324px;
   object-fit: contain;
   margin-left: -150px;
   border-radius: 48px;
@@ -252,7 +253,7 @@
   color: var(--dl-color-scheme-orange100);
 }
 .themes-section1 {
-  height: 602px;
+  height: 335px;
   padding-top: 21px;
   padding-bottom: 20px;
   background-color: var(--dl-color-scheme-grey);
@@ -281,13 +282,15 @@
   margin-bottom: var(--dl-space-space-twounits);
 }
 .themes-hero-image2 {
-  width: 731px;
-  height: 647px;
+  width: 432px;
+  height: 281px;
   object-fit: contain;
   margin-right: -50px;
   border-radius: 48px;
 }
 .themes-section2 {
+  padding-top: 21px;
+  padding-bottom: 40px;
   background-color: var(--dl-color-scheme-white);
 }
 .themes-max-width4 {
