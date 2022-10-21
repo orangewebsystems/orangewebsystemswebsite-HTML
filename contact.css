@@ -136,6 +136,21 @@
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
 }
+.contact-text06 {
+  line-height: 1.5;
+}
+.contact-text07 {
+  line-height: 1.5;
+}
+.contact-text08 {
+  line-height: 1.5;
+}
+.contact-text09 {
+  line-height: 1.5;
+}
+.contact-text10 {
+  line-height: 1.5;
+}
 .contact-btns {
   flex: 0 0 auto;
   display: flex;
