@@ -113,7 +113,7 @@
 .technology-link {
   font-weight: 700;
   padding-top: var(--dl-space-space-twounits);
-  text-decoration: none;
+  text-decoration: underline;
 }
 .technology-section1 {
   height: 318px;
