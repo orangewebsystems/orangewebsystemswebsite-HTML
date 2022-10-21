@@ -155,8 +155,9 @@
   margin-bottom: var(--dl-space-space-threeunits);
 }
 .themes-link1 {
-  width: var(--dl-size-size-medium);
+  width: 185px;
   align-self: flex-start;
+  padding-right: 0px;
   text-decoration: none;
 }
 .themes-image1 {
