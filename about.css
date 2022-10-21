@@ -33,16 +33,46 @@
 }
 .about-text {
   color: var(--dl-color-scheme-green80);
+  font-size: 16px;
+  font-style: normal;
+  font-family: Titillium Web;
+  font-weight: 700;
+  line-height: 1.5;
   margin-right: var(--dl-space-space-twounits);
+  text-transform: none;
+  text-decoration: none;
+}
+.about-navlink1 {
+  color: var(--dl-color-scheme-green80);
+  font-size: 16px;
+  font-style: normal;
+  font-family: Titillium Web;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-right: var(--dl-space-space-twounits);
+  text-transform: none;
   text-decoration: none;
 }
 .about-text01 {
   color: var(--dl-color-scheme-green80);
+  font-size: 16px;
+  font-style: normal;
+  font-family: Titillium Web;
+  font-weight: 700;
+  line-height: 1.5;
   margin-right: var(--dl-space-space-twounits);
+  text-transform: none;
+  text-decoration: none;
 }
-.about-navlink1 {
+.about-navlink2 {
   color: var(--dl-color-scheme-green80);
+  font-size: 16px;
+  font-style: normal;
+  font-family: Titillium Web;
+  font-weight: 700;
+  line-height: 1.5;
   margin-right: var(--dl-space-space-twounits);
+  text-transform: none;
   text-decoration: none;
 }
 .about-button {
