@@ -214,18 +214,19 @@
   border-bottom-right-radius: 0;
 }
 .themes-section {
-  height: 383px;
+  height: 308px;
   padding-top: var(--dl-space-space-halfunit);
   padding-bottom: 28px;
   background-color: var(--dl-color-scheme-white);
 }
 .themes-max-width2 {
-  width: 1052px;
+  width: 878px;
+  align-self: center;
   align-items: stretch;
 }
 .themes-hero-image1 {
-  width: 361px;
-  height: 324px;
+  width: 329px;
+  height: 271px;
   object-fit: contain;
   margin-left: -150px;
   border-radius: 48px;
@@ -242,7 +243,9 @@
   margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text03 {
+  width: 646px;
   font-size: 42px;
+  align-self: flex-start;
   font-style: normal;
   font-family: Urbanist;
   font-weight: 700;
