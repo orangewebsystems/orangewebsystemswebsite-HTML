@@ -67,8 +67,8 @@
   height: 24px;
 }
 .technology-section {
-  height: 478px;
-  padding-top: 52px;
+  height: 415px;
+  padding-top: 20px;
   padding-bottom: var(--dl-space-space-halfunit);
   background-color: var(--dl-color-scheme-grey);
 }
