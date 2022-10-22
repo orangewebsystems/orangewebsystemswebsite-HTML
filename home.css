@@ -96,7 +96,7 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-halfunit);
   justify-content: center;
-  background-color: var(--dl-color-scheme-shopifybg);
+  background-color: var(--dl-color-scheme-grey);
 }
 .home-text03 {
   color: var(--dl-color-scheme-green100);
@@ -115,13 +115,13 @@
   letter-spacing: 1px;
 }
 .home-text04 {
-  color: var(--dl-color-scheme-white);
+  color: var(--dl-color-scheme-black);
   font-size: 30px;
   font-family: Open Sans;
   font-weight: 400;
 }
 .home-text05 {
-  color: var(--dl-color-scheme-white);
+  color: var(--dl-color-scheme-black);
   font-size: 30px;
   font-family: Open Sans;
   font-weight: 400;
@@ -179,14 +179,14 @@
   justify-content: center;
 }
 .home-navlink4 {
-  color: var(--dl-color-scheme-shopifybg);
+  color: var(--dl-color-scheme-white);
   font-weight: 700;
   padding-top: 18px;
   border-width: 0px;
   border-radius: 10px;
   padding-bottom: 18px;
   text-decoration: none;
-  background-color: var(--dl-color-scheme-white);
+  background-color: var(--dl-color-scheme-shopifybg);
 }
 .home-section {
   height: 350px;
