@@ -137,6 +137,9 @@
   line-height: 1.75;
   margin-bottom: var(--dl-space-space-threeunits);
 }
+.technology-link1 {
+  text-decoration: underline;
+}
 .technology-container3 {
   flex: 0 0 auto;
   width: auto;
