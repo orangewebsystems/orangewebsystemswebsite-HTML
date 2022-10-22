@@ -120,6 +120,13 @@
   font-family: Open Sans;
   font-weight: 400;
 }
+.home-link1 {
+  color: var(--dl-color-scheme-black);
+  font-size: 30px;
+  font-family: Open Sans;
+  font-weight: 400;
+  text-decoration: underline;
+}
 .home-text05 {
   color: var(--dl-color-scheme-black);
   font-size: 30px;
@@ -127,6 +134,12 @@
   font-weight: 400;
 }
 .home-text06 {
+  color: var(--dl-color-scheme-black);
+  font-size: 30px;
+  font-family: Open Sans;
+  font-weight: 400;
+}
+.home-text07 {
   font-style: normal;
 }
 .home-container2 {
@@ -146,7 +159,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-link1 {
+.home-link2 {
   display: contents;
 }
 .home-image1 {
@@ -191,11 +204,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text07 {
+.home-text08 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text08 {
+.home-text09 {
   font-size: 32px;
   font-style: normal;
   font-family: Urbanist;
@@ -238,11 +251,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text09 {
+.home-text10 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text10 {
+.home-text11 {
   font-size: 32px;
   font-style: normal;
   font-family: Urbanist;
@@ -250,19 +263,19 @@
   line-height: 1.3;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.home-text11 {
-  color: var(--dl-color-scheme-orange100);
-}
 .home-text12 {
-  color: var(--dl-color-scheme-shopifybg);
+  color: var(--dl-color-scheme-orange100);
 }
 .home-text13 {
-  color: var(--dl-color-scheme-orange100);
-}
-.home-text14 {
   color: var(--dl-color-scheme-shopifybg);
 }
+.home-text14 {
+  color: var(--dl-color-scheme-orange100);
+}
 .home-text15 {
+  color: var(--dl-color-scheme-shopifybg);
+}
+.home-text16 {
   color: var(--dl-color-scheme-shopifybg);
 }
 .home-hero-image1 {
@@ -291,7 +304,7 @@
   padding-top: var(--dl-space-space-halfunit);
   text-decoration: none;
 }
-.home-text17 {
+.home-text18 {
   color: black;
   font-size: 42px;
   font-style: normal;
@@ -322,11 +335,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-1500w.png");
 }
-.home-text18 {
+.home-text19 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text19 {
+.home-text20 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -336,7 +349,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text25 {
+.home-text26 {
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
@@ -360,7 +373,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text26 {
+.home-text27 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -384,7 +397,7 @@
   justify-content: center;
   background-color: #018262;
 }
-.home-text27 {
+.home-text28 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
