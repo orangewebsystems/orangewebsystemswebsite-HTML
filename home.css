@@ -101,42 +101,34 @@
 .home-text03 {
   color: var(--dl-color-scheme-green100);
   width: 1077px;
-  height: 129px;
+  height: 79px;
   font-size: 24px;
   margin-top: 0px;
   text-align: left;
-  font-family: Titillium Web;
+  font-family: Urbanist;
   font-weight: 900;
   line-height: 1.5;
   margin-left: 0px;
   margin-right: 0px;
   border-radius: var(--dl-radius-radius-radius8);
-  margin-bottom: var(--dl-space-space-twounits);
+  margin-bottom: 19px;
   letter-spacing: 1px;
 }
 .home-text04 {
   color: var(--dl-color-scheme-black);
-  font-size: 30px;
-  font-family: Urbanist;
   font-weight: 400;
 }
 .home-link1 {
   color: var(--dl-color-scheme-black);
-  font-size: 30px;
-  font-family: Urbanist;
   font-weight: 400;
   text-decoration: underline;
 }
 .home-text05 {
   color: var(--dl-color-scheme-black);
-  font-size: 30px;
-  font-family: Urbanist;
   font-weight: 400;
 }
 .home-text06 {
   color: var(--dl-color-scheme-black);
-  font-size: 30px;
-  font-family: Urbanist;
   font-weight: 400;
 }
 .home-text07 {
