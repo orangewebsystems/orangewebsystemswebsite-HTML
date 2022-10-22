@@ -191,8 +191,15 @@
   height: 350px;
   align-self: center;
   padding-top: var(--dl-space-space-twounits);
+  border-color: var(--dl-color-scheme-green100);
+  border-style: dotted;
+  border-width: 10px;
   padding-bottom: 36px;
   background-color: var(--dl-color-scheme-white);
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 2px;
 }
 .home-max-width1 {
   align-items: stretch;
@@ -209,10 +216,10 @@
   margin-bottom: var(--dl-space-space-unit);
 }
 .home-text09 {
-  font-size: 32px;
+  font-size: 24px;
   font-style: normal;
   font-family: Urbanist;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.3;
   margin-bottom: var(--dl-space-space-twounits);
 }
@@ -256,10 +263,9 @@
   margin-bottom: var(--dl-space-space-unit);
 }
 .home-text11 {
-  font-size: 32px;
-  font-style: normal;
+  font-size: 24px;
   font-family: Urbanist;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.3;
   margin-bottom: var(--dl-space-space-twounits);
 }
