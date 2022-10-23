@@ -125,12 +125,12 @@
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .about-text04 {
-  font-size: 32px;
+  font-size: 22px;
   align-self: flex-start;
   font-style: normal;
   text-align: left;
   font-family: Urbanist;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-threeunits);
 }
@@ -160,12 +160,12 @@
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .about-text06 {
-  width: 1042px;
-  font-size: 32px;
+  width: 1099px;
+  font-size: 22px;
   font-style: normal;
   text-align: left;
   font-family: Urbanist;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-threeunits);
 }
@@ -188,12 +188,12 @@
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .about-text08 {
-  width: 1042px;
-  font-size: 32px;
+  width: 1095px;
+  font-size: 22px;
   font-style: normal;
   text-align: left;
   font-family: Urbanist;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-threeunits);
 }
