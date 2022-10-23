@@ -125,13 +125,13 @@
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .about-text04 {
-  font-size: 22px;
+  font-size: 28px;
   align-self: flex-start;
   font-style: normal;
   text-align: left;
   font-family: Urbanist;
   font-weight: 400;
-  line-height: 1.25;
+  line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
 }
 .about-section1 {
@@ -161,12 +161,12 @@
 }
 .about-text06 {
   width: 1099px;
-  font-size: 22px;
+  font-size: 28px;
   font-style: normal;
   text-align: left;
   font-family: Urbanist;
   font-weight: 400;
-  line-height: 1.25;
+  line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
 }
 .about-section2 {
@@ -189,12 +189,12 @@
 }
 .about-text08 {
   width: 1095px;
-  font-size: 22px;
+  font-size: 28px;
   font-style: normal;
   text-align: left;
   font-family: Urbanist;
   font-weight: 400;
-  line-height: 1.25;
+  line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
 }
 .about-container2 {
