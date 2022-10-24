@@ -114,15 +114,8 @@
   margin-bottom: 19px;
   letter-spacing: 1px;
 }
-.home-text04 {
-  font-style: normal;
-}
 .home-text05 {
-  font-style: normal;
   text-decoration: underline;
-}
-.home-text06 {
-  font-style: normal;
 }
 .home-container2 {
   width: 1073px;
@@ -383,6 +376,38 @@
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
+}
+@media(max-width: 1600px) {
+  .home-text03 {
+    color: var(--dl-color-scheme-green100);
+    font-size: 24px;
+    font-style: normal;
+    font-family: Urbanist;
+    font-weight: 900;
+    line-height: 1.5;
+    letter-spacing: 1px;
+  }
+  .home-text04 {
+    font-style: normal;
+    font-weight: 400;
+  }
+  .home-text05 {
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: underline;
+  }
+  .home-text06 {
+    font-style: normal;
+    font-weight: 400;
+  }
+  .home-text07 {
+    font-style: normal;
+    font-weight: 400;
+  }
+  .home-text08 {
+    font-style: normal;
+    font-weight: 400;
+  }
 }
 @media(max-width: 1200px) {
   .home-text03 {
