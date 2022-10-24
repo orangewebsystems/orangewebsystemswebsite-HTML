@@ -414,6 +414,18 @@
   }
 }
 @media(max-width: 991px) {
+  .home-text03 {
+    width: 100%;
+  }
+  .home-container2 {
+    width: 100%;
+  }
+  .home-container3 {
+    width: 50%;
+  }
+  .home-container4 {
+    width: 50%;
+  }
   .home-max-width1 {
     flex-direction: column;
   }
