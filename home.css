@@ -114,25 +114,8 @@
   margin-bottom: 19px;
   letter-spacing: 1px;
 }
-.home-text04 {
-  color: var(--dl-color-scheme-black);
-  font-weight: 400;
-}
 .home-link1 {
-  color: var(--dl-color-scheme-black);
-  font-weight: 400;
   text-decoration: underline;
-}
-.home-text05 {
-  color: var(--dl-color-scheme-black);
-  font-weight: 400;
-}
-.home-text06 {
-  color: var(--dl-color-scheme-black);
-  font-weight: 400;
-}
-.home-text07 {
-  font-style: normal;
 }
 .home-container2 {
   width: 1073px;
@@ -324,7 +307,7 @@
   border-radius: 48px;
   flex-direction: column;
   background-size: cover;
-  background-image: url("public/playground_assets/group%2011-1500w.png");
+  background-image: url("public/playground_assets/group%2011-500h.png");
 }
 .home-text19 {
   color: var(--dl-color-scheme-lightgreen);
@@ -415,7 +398,35 @@
 }
 @media(max-width: 991px) {
   .home-text03 {
+    color: var(--dl-color-scheme-green100);
     width: 100%;
+    font-size: 24px;
+    font-family: Urbanist;
+    font-weight: 900;
+    line-height: 1.5;
+    padding-left: var(--dl-space-space-oneandhalfunits);
+    padding-right: var(--dl-space-space-oneandhalfunits);
+    letter-spacing: 1px;
+  }
+  .home-text04 {
+    color: var(--dl-color-scheme-black);
+    font-weight: 400;
+  }
+  .home-link1 {
+    color: var(--dl-color-scheme-black);
+    font-weight: 400;
+    text-decoration: underline;
+  }
+  .home-text05 {
+    color: var(--dl-color-scheme-black);
+    font-weight: 400;
+  }
+  .home-text06 {
+    color: var(--dl-color-scheme-black);
+    font-weight: 400;
+  }
+  .home-text07 {
+    font-style: normal;
   }
   .home-container2 {
     width: 100%;
@@ -426,20 +437,25 @@
   .home-container4 {
     width: 50%;
   }
+  .home-section {
+    height: 464px;
+  }
   .home-max-width1 {
+    height: 444px;
     flex-direction: column;
   }
   .home-content {
     width: 100%;
     margin-left: 0px;
     margin-right: 0px;
-    margin-bottom: var(--dl-space-space-threeunits);
+    margin-bottom: var(--dl-space-space-halfunit);
   }
   .home-image2 {
     padding-bottom: 0px;
   }
   .home-hero-image {
-    width: 100%;
+    width: 910px;
+    height: 174px;
     margin-left: 0px;
     margin-bottom: 0px;
   }
@@ -450,15 +466,19 @@
     width: 100%;
     margin-left: 0px;
     margin-right: 0px;
-    margin-bottom: var(--dl-space-space-threeunits);
+    margin-bottom: 0px;
   }
   .home-image3 {
     padding-bottom: 0px;
   }
   .home-hero-image1 {
-    width: 100%;
+    width: 923px;
+    height: 216px;
     margin-left: 0px;
     margin-bottom: 0px;
+  }
+  .home-banner {
+    width: 80%;
   }
   .home-max-width3 {
     flex-direction: column;
