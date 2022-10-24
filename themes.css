@@ -413,6 +413,19 @@
   font-style: normal;
   font-weight: 400;
 }
+@media(max-width: 1600px) {
+  .themes-subtitle {
+    color: var(--dl-color-scheme-shopifybg);
+    font-size: 14px;
+    font-style: normal;
+    font-family: Urbanist;
+    font-weight: 800;
+    line-height: 1.15;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+}
 @media(max-width: 991px) {
   .themes-content {
     width: 50%;
