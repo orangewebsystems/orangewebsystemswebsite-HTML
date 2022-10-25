@@ -264,6 +264,11 @@
   font-style: normal;
   font-weight: 400;
 }
+@media(max-width: 1600px) {
+  .about-text09 {
+    margin-bottom: var(--dl-space-space-fiveunits);
+  }
+}
 @media(max-width: 991px) {
   .about-max-width1 {
     flex-direction: column;
