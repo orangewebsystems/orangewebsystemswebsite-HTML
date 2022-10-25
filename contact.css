@@ -175,6 +175,9 @@
   }
   .contact-text5 {
     color: var(--dl-color-scheme-white);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
   }
 }
 @media(max-width: 991px) {
