@@ -207,6 +207,20 @@
   flex-direction: column;
   justify-content: center;
 }
+.about-image1 {
+  width: 100px;
+  object-fit: cover;
+}
+.about-container3 {
+  width: 100%;
+  height: 406px;
+  display: flex;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  align-items: center;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  flex-direction: column;
+  justify-content: center;
+}
 .about-banner {
   flex: 0 0 auto;
   width: 1079px;
@@ -219,7 +233,7 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-500h.png");
 }
-.about-text09 {
+.about-text10 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -258,14 +272,18 @@
   justify-content: center;
   background-color: #018262;
 }
-.about-text10 {
+.about-text11 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
 }
 @media(max-width: 1600px) {
-  .about-text09 {
+  .about-image1 {
+    width: 681px;
+    height: 114px;
+  }
+  .about-text10 {
     margin-bottom: var(--dl-space-space-fiveunits);
   }
 }
