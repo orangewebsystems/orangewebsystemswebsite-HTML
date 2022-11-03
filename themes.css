@@ -576,6 +576,14 @@
     text-transform: uppercase;
     text-decoration: none;
   }
+  .themes-title {
+    color: var(--dl-color-scheme-black);
+    font-size: 52px;
+    font-style: normal;
+    font-family: Urbanist;
+    font-weight: 600;
+    line-height: 1.2;
+  }
   .themes-subtitle1 {
     color: var(--dl-color-scheme-shopifybg);
     font-size: 14px;
@@ -589,6 +597,11 @@
   }
   .themes-title1 {
     color: var(--dl-color-scheme-black);
+    font-size: 52px;
+    font-style: normal;
+    font-family: Urbanist;
+    font-weight: 600;
+    line-height: 1.2;
   }
   .themes-description1 {
     color: var(--dl-color-scheme-green80);
