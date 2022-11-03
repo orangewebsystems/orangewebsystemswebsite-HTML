@@ -72,7 +72,7 @@
   width: 24px;
   height: 24px;
 }
-.themes-container1 {
+.themes-container01 {
   flex: 0 0 auto;
   width: 100%;
   height: 100px;
@@ -99,7 +99,7 @@
   padding-left: 0px;
   background-color: #E0E2E9;
 }
-.themes-container2 {
+.themes-container02 {
   flex: 0 0 auto;
   width: 100%;
   height: auto;
@@ -107,7 +107,7 @@
   align-items: space-between;
   flex-direction: column;
 }
-.themes-container3 {
+.themes-container03 {
   width: 835px;
   height: 356px;
   display: flex;
@@ -157,7 +157,7 @@
   padding-top: var(--dl-space-space-twounits);
   margin-bottom: var(--dl-space-space-threeunits);
 }
-.themes-container4 {
+.themes-container04 {
   flex: 0 0 auto;
   width: 196px;
   height: auto;
@@ -165,7 +165,7 @@
   align-items: flex-start;
   justify-content: space-between;
 }
-.themes-container5 {
+.themes-container05 {
   flex: 0 0 auto;
   width: 533px;
   height: 65px;
@@ -203,7 +203,7 @@
   object-fit: contain;
   object-position: center;
 }
-.themes-container6 {
+.themes-container06 {
   flex: 0 0 auto;
   width: 742px;
   height: 103px;
@@ -242,25 +242,176 @@
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
+.themes-hero1 {
+  height: 681px;
+  position: relative;
+  padding-bottom: 5px;
+  background-color: #E0E2E9;
+}
+.themes-max-width2 {
+  width: 913px;
+  height: 398px;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-fiveunits);
+  align-items: center;
+  padding-left: 0px;
+  background-color: #E0E2E9;
+}
+.themes-container07 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: space-between;
+  flex-direction: column;
+}
+.themes-container08 {
+  width: 835px;
+  height: 356px;
+  display: flex;
+  align-items: space-between;
+  margin-left: 200px;
+  flex-direction: column;
+  background-color: #E0E2E9;
+}
+.themes-content1 {
+  width: 501px;
+  height: 262px;
+  display: flex;
+  position: relative;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: flex-start;
+  margin-right: var(--dl-space-space-twounits);
+  margin-bottom: 4px;
+  flex-direction: column;
+  padding-bottom: 70px;
+}
+.themes-subtitle1 {
+  color: var(--dl-color-scheme-shopifybg);
+  font-size: 14px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 800;
+  line-height: 1.15;
+  margin-left: 5px;
+  margin-bottom: 2px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.themes-title1 {
+  color: var(--dl-color-scheme-black);
+  font-size: 52px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 12px;
+}
+.themes-description1 {
+  color: var(--dl-color-scheme-green80);
+  font-size: 18px;
+  line-height: 1.5;
+  padding-top: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-threeunits);
+}
+.themes-container09 {
+  flex: 0 0 auto;
+  width: 196px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.themes-container10 {
+  flex: 0 0 auto;
+  width: 533px;
+  height: 65px;
+  display: flex;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.themes-link4 {
+  width: 135px;
+  align-self: flex-start;
+  padding-right: 0px;
+  text-decoration: none;
+}
+.themes-image3 {
+  position: relative;
+  padding-bottom: var(--dl-space-space-eightunits);
+}
+.themes-graphic-top1 {
+  top: 0px;
+  right: -170px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  max-width: 359px;
+  max-height: 359px;
+  object-fit: contain;
+  object-position: center;
+}
+.themes-container11 {
+  flex: 0 0 auto;
+  width: 742px;
+  height: 103px;
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  padding-left: var(--dl-space-space-threeunits);
+  justify-content: center;
+}
+.themes-link5 {
+  display: contents;
+}
+.themes-image4 {
+  top: -2px;
+  left: 173px;
+  width: 292px;
+  height: 98px;
+  position: absolute;
+  object-fit: cover;
+  padding-left: -30px;
+  text-decoration: none;
+}
+.themes-hero-image1 {
+  top: 27px;
+  flex: 1;
+  right: 150px;
+  width: 651px;
+  height: 634px;
+  position: absolute;
+  max-width: 550px;
+  object-fit: cover;
+  border-radius: 48px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
 .themes-section {
   height: 308px;
   padding-top: var(--dl-space-space-halfunit);
   padding-bottom: 28px;
   background-color: var(--dl-color-scheme-white);
 }
-.themes-max-width2 {
+.themes-max-width3 {
   width: 878px;
   align-self: center;
   align-items: stretch;
 }
-.themes-hero-image1 {
+.themes-hero-image2 {
   width: 329px;
   height: 271px;
   object-fit: contain;
   margin-left: -150px;
   border-radius: 48px;
 }
-.themes-content1 {
+.themes-content2 {
   width: 50%;
   display: flex;
   margin-left: var(--dl-space-space-twounits);
@@ -290,10 +441,10 @@
   padding-bottom: 20px;
   background-color: var(--dl-color-scheme-grey);
 }
-.themes-max-width3 {
+.themes-max-width4 {
   align-items: stretch;
 }
-.themes-content2 {
+.themes-content3 {
   width: 50%;
   display: flex;
   margin-right: var(--dl-space-space-twounits);
@@ -313,7 +464,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.themes-hero-image2 {
+.themes-hero-image3 {
   width: 432px;
   height: 281px;
   object-fit: contain;
@@ -325,7 +476,7 @@
   padding-bottom: 40px;
   background-color: var(--dl-color-scheme-white);
 }
-.themes-max-width4 {
+.themes-max-width5 {
   align-items: center;
   flex-direction: column;
   justify-content: center;
@@ -347,7 +498,7 @@
   padding-top: 0px;
   padding-bottom: 72px;
 }
-.themes-max-width5 {
+.themes-max-width6 {
   width: 1286px;
   align-items: center;
   flex-direction: column;
@@ -384,7 +535,7 @@
   align-items: stretch;
   flex-direction: row;
 }
-.themes-link4 {
+.themes-link6 {
   padding-top: 12px;
   margin-right: 0px;
   padding-left: 24px;
@@ -425,6 +576,26 @@
     text-transform: uppercase;
     text-decoration: none;
   }
+  .themes-subtitle1 {
+    color: var(--dl-color-scheme-shopifybg);
+    font-size: 14px;
+    font-style: normal;
+    font-family: Urbanist;
+    font-weight: 800;
+    line-height: 1.15;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .themes-title1 {
+    color: var(--dl-color-scheme-black);
+  }
+  .themes-description1 {
+    color: var(--dl-color-scheme-green80);
+  }
+  .themes-link4 {
+    text-decoration: none;
+  }
 }
 @media(max-width: 991px) {
   .themes-content {
@@ -437,43 +608,53 @@
   .themes-hero-image {
     margin-bottom: 0px;
   }
-  .themes-max-width2 {
-    flex-direction: column;
+  .themes-content1 {
+    width: 50%;
+    margin-right: var(--dl-space-space-unit);
   }
   .themes-image3 {
     padding-bottom: var(--dl-space-space-threeunits);
   }
   .themes-hero-image1 {
-    width: 100%;
-    margin-left: 0px;
     margin-bottom: 0px;
-  }
-  .themes-content1 {
-    width: 100%;
-    margin-left: 0px;
-    margin-right: 0px;
   }
   .themes-max-width3 {
     flex-direction: column;
   }
-  .themes-content2 {
-    width: 100%;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-bottom: var(--dl-space-space-threeunits);
-  }
-  .themes-image4 {
-    padding-bottom: 0px;
+  .themes-image5 {
+    padding-bottom: var(--dl-space-space-threeunits);
   }
   .themes-hero-image2 {
     width: 100%;
     margin-left: 0px;
     margin-bottom: 0px;
   }
+  .themes-content2 {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
   .themes-max-width4 {
     flex-direction: column;
   }
+  .themes-content3 {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-threeunits);
+  }
+  .themes-image6 {
+    padding-bottom: 0px;
+  }
+  .themes-hero-image3 {
+    width: 100%;
+    margin-left: 0px;
+    margin-bottom: 0px;
+  }
   .themes-max-width5 {
+    flex-direction: column;
+  }
+  .themes-max-width6 {
     flex-direction: column;
   }
   .themes-footer {
@@ -497,11 +678,21 @@
   .themes-hero-image {
     margin-right: 0px;
   }
+  .themes-max-width2 {
+    flex-direction: column-reverse;
+  }
   .themes-content1 {
     width: 100%;
     margin-right: 0px;
   }
+  .themes-hero-image1 {
+    margin-right: 0px;
+  }
   .themes-content2 {
+    width: 100%;
+    margin-right: 0px;
+  }
+  .themes-content3 {
     width: 100%;
     margin-right: 0px;
   }
@@ -515,6 +706,9 @@
 }
 @media(max-width: 479px) {
   .themes-hero-image {
+    display: none;
+  }
+  .themes-hero-image1 {
     display: none;
   }
   .themes-banner {
