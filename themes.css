@@ -584,6 +584,14 @@
     font-weight: 600;
     line-height: 1.2;
   }
+  .themes-hero1 {
+    border-color: var(--dl-color-scheme-green100);
+    border-width: 1px;
+    border-top-width: 2px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+  }
   .themes-subtitle1 {
     color: var(--dl-color-scheme-shopifybg);
     font-size: 14px;
