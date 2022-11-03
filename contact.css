@@ -190,7 +190,10 @@
     margin-bottom: var(--dl-space-space-unit);
   }
   .contact-btns {
-    padding-bottom: var(--dl-space-space-threeunits);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .contact-link1 {
+    margin-bottom: var(--dl-space-space-unit);
   }
   .contact-text6 {
     color: var(--dl-color-scheme-white);
