@@ -178,7 +178,7 @@
 }
 @media(max-width: 1600px) {
   .contact-text4 {
-    margin-bottom: var(--dl-space-space-twounits);
+    margin-bottom: var(--dl-space-space-halfunit);
   }
   .contact-text5 {
     color: var(--dl-color-scheme-white);
@@ -187,7 +187,7 @@
     font-family: Urbanist;
     font-weight: 700;
     line-height: 1.25;
-    margin-bottom: var(--dl-space-space-twounits);
+    margin-bottom: var(--dl-space-space-unit);
   }
   .contact-btns {
     padding-bottom: var(--dl-space-space-threeunits);
