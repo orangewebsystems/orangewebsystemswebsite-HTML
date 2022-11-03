@@ -131,6 +131,16 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
+.contact-text5 {
+  color: var(--dl-color-scheme-white);
+  font-size: 42px;
+  font-style: normal;
+  text-align: center;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
 .contact-btns {
   flex: 0 0 auto;
   display: flex;
@@ -160,7 +170,7 @@
   justify-content: center;
   background-color: #018262;
 }
-.contact-text6 {
+.contact-text7 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
@@ -170,10 +180,19 @@
   .contact-text4 {
     margin-bottom: var(--dl-space-space-twounits);
   }
+  .contact-text5 {
+    color: var(--dl-color-scheme-white);
+    font-size: 24px;
+    font-style: normal;
+    font-family: Urbanist;
+    font-weight: 700;
+    line-height: 1.25;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
   .contact-btns {
     padding-bottom: var(--dl-space-space-threeunits);
   }
-  .contact-text5 {
+  .contact-text6 {
     color: var(--dl-color-scheme-white);
     font-size: 18px;
     font-style: normal;
