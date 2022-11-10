@@ -74,6 +74,7 @@
 }
 .teleport-show {
   display: flex !important;
+  transform: none !important;
 }
 .button-secondary {
   font-style: normal;
@@ -212,7 +213,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.before-Heading {
+.beforeHeading {
   font-size: 14px;
   font-style: normal;
   font-family: Urbanist;
@@ -222,7 +223,7 @@
   text-transform: uppercase;
   text-decoration: none;
 }
-.brand-Name {
+.brandName {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -232,7 +233,7 @@
   text-transform: uppercase;
   text-decoration: none;
 }
-.navbar-Link {
+.navbarLink {
   font-size: 16px;
   font-style: normal;
   font-family: Titillium Web;
@@ -241,7 +242,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.content {
+.Content {
   font-size: 16px;
   font-family: Titillium Web;
   font-weight: 400;

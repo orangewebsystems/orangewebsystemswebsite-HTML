@@ -181,13 +181,6 @@
   padding-right: 0px;
   text-decoration: none;
 }
-.themes-link2 {
-  width: 139px;
-  align-self: flex-start;
-  margin-left: var(--dl-space-space-threeunits);
-  padding-right: 0px;
-  text-decoration: none;
-}
 .themes-image1 {
   position: relative;
   padding-bottom: var(--dl-space-space-eightunits);
@@ -214,7 +207,7 @@
   padding-left: var(--dl-space-space-threeunits);
   justify-content: center;
 }
-.themes-link3 {
+.themes-link2 {
   display: contents;
 }
 .themes-image2 {
@@ -333,7 +326,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.themes-link4 {
+.themes-link3 {
   width: 135px;
   align-self: flex-start;
   padding-right: 0px;
@@ -365,7 +358,7 @@
   padding-left: var(--dl-space-space-threeunits);
   justify-content: center;
 }
-.themes-link5 {
+.themes-link4 {
   display: contents;
 }
 .themes-image4 {
@@ -535,7 +528,7 @@
   align-items: stretch;
   flex-direction: row;
 }
-.themes-link6 {
+.themes-link5 {
   padding-top: 12px;
   margin-right: 0px;
   padding-left: 24px;
@@ -584,6 +577,10 @@
     font-weight: 600;
     line-height: 1.2;
   }
+  .themes-link1 {
+    width: 266px;
+    text-decoration: none;
+  }
   .themes-hero1 {
     border-color: var(--dl-color-scheme-green100);
     border-width: 1px;
@@ -614,7 +611,7 @@
   .themes-description1 {
     color: var(--dl-color-scheme-green80);
   }
-  .themes-link4 {
+  .themes-link3 {
     text-decoration: none;
   }
 }
