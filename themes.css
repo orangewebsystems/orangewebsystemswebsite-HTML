@@ -558,6 +558,9 @@
   font-weight: 400;
 }
 @media(max-width: 1600px) {
+  .themes-hero {
+    height: 821px;
+  }
   .themes-subtitle {
     color: var(--dl-color-scheme-shopifybg);
     font-size: 14px;
@@ -580,6 +583,9 @@
   .themes-link1 {
     width: 266px;
     text-decoration: none;
+  }
+  .themes-hero-image {
+    height: 770px;
   }
   .themes-hero1 {
     border-color: var(--dl-color-scheme-green100);
