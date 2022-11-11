@@ -559,7 +559,7 @@
 }
 @media(max-width: 1600px) {
   .themes-hero {
-    height: 821px;
+    height: 719px;
   }
   .themes-subtitle {
     color: var(--dl-color-scheme-shopifybg);
@@ -585,7 +585,11 @@
     text-decoration: none;
   }
   .themes-hero-image {
-    height: 770px;
+    top: 18px;
+    right: 118px;
+    width: 485px;
+    height: 646px;
+    position: absolute;
   }
   .themes-hero1 {
     border-color: var(--dl-color-scheme-green100);
