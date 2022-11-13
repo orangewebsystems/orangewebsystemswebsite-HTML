@@ -551,6 +551,9 @@
     font-weight: 600;
     line-height: 1.2;
   }
+  .themes-button {
+    width: 269px;
+  }
   .themes-hero-image {
     top: 18px;
     right: 118px;
