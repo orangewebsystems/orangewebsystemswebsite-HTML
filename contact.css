@@ -50,7 +50,7 @@
   margin-right: var(--dl-space-space-twounits);
   text-decoration: none;
 }
-.contact-text1 {
+.contact-text01 {
   color: var(--dl-color-scheme-green80);
   font-weight: bold;
   margin-right: var(--dl-space-space-twounits);
@@ -77,7 +77,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.contact-text2 {
+.contact-text02 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -117,11 +117,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-500h.png");
 }
-.contact-text3 {
+.contact-text03 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.contact-text4 {
+.contact-text04 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -131,7 +131,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.contact-text5 {
+.contact-text05 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -170,17 +170,17 @@
   justify-content: center;
   background-color: #018262;
 }
-.contact-text7 {
+.contact-text15 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
 }
 @media(max-width: 1600px) {
-  .contact-text4 {
+  .contact-text04 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .contact-text5 {
+  .contact-text05 {
     color: var(--dl-color-scheme-white);
     font-size: 24px;
     font-style: normal;
@@ -195,7 +195,7 @@
   .contact-link1 {
     margin-bottom: var(--dl-space-space-unit);
   }
-  .contact-text6 {
+  .contact-text14 {
     color: var(--dl-color-scheme-white);
     font-size: 18px;
     font-style: normal;
