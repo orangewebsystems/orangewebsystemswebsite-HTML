@@ -176,32 +176,6 @@
   font-style: normal;
   font-weight: 400;
 }
-@media(max-width: 1600px) {
-  .contact-text04 {
-    margin-bottom: var(--dl-space-space-halfunit);
-  }
-  .contact-text05 {
-    color: var(--dl-color-scheme-white);
-    font-size: 24px;
-    font-style: normal;
-    font-family: Urbanist;
-    font-weight: 700;
-    line-height: 1.25;
-    margin-bottom: var(--dl-space-space-unit);
-  }
-  .contact-btns {
-    padding-bottom: var(--dl-space-space-halfunit);
-  }
-  .contact-link1 {
-    margin-bottom: var(--dl-space-space-unit);
-  }
-  .contact-text09 {
-    color: var(--dl-color-scheme-white);
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 400;
-  }
-}
 @media(max-width: 991px) {
   .contact-max-width1 {
     flex-direction: column;

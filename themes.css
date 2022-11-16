@@ -108,7 +108,7 @@
   flex-direction: column;
 }
 .themes-container3 {
-  width: 835px;
+  width: 538px;
   height: 356px;
   display: flex;
   align-items: space-between;
@@ -158,6 +158,8 @@
   margin-bottom: var(--dl-space-space-threeunits);
 }
 .themes-link1 {
+  width: 277px;
+  height: 50px;
   text-decoration: none;
 }
 .themes-image1 {
@@ -203,8 +205,8 @@
   top: 27px;
   flex: 1;
   right: 150px;
-  width: 651px;
-  height: 634px;
+  width: 672px;
+  height: 739px;
   position: absolute;
   max-width: 550px;
   object-fit: cover;
@@ -512,77 +514,6 @@
   font-style: normal;
   font-weight: 400;
 }
-@media(max-width: 1600px) {
-  .themes-hero {
-    height: 719px;
-  }
-  .themes-container2 {
-    align-items: flex-start;
-  }
-  .themes-subtitle {
-    color: var(--dl-color-scheme-shopifybg);
-    font-size: 14px;
-    font-style: normal;
-    font-family: Urbanist;
-    font-weight: 800;
-    line-height: 1.15;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    text-decoration: none;
-  }
-  .themes-title {
-    color: var(--dl-color-scheme-black);
-    font-size: 52px;
-    font-style: normal;
-    font-family: Urbanist;
-    font-weight: 600;
-    line-height: 1.2;
-  }
-  .themes-link1 {
-    width: 269px;
-  }
-  .themes-container4 {
-    justify-content: flex-start;
-  }
-  .themes-hero-image {
-    right: 100px;
-    width: 607px;
-    bottom: -17px;
-    height: 733px;
-    position: absolute;
-    box-shadow: 5px 5px 10px 0px #d4d4d4;
-  }
-  .themes-hero1 {
-    border-color: var(--dl-color-scheme-green100);
-    border-width: 1px;
-    border-top-width: 2px;
-    border-left-width: 0px;
-    border-right-width: 0px;
-    border-bottom-width: 0px;
-  }
-  .themes-subtitle1 {
-    color: var(--dl-color-scheme-shopifybg);
-    font-size: 14px;
-    font-style: normal;
-    font-family: Urbanist;
-    font-weight: 800;
-    line-height: 1.15;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    text-decoration: none;
-  }
-  .themes-title1 {
-    color: var(--dl-color-scheme-black);
-    font-size: 52px;
-    font-style: normal;
-    font-family: Urbanist;
-    font-weight: 600;
-    line-height: 1.2;
-  }
-  .themes-description1 {
-    color: var(--dl-color-scheme-green80);
-  }
-}
 @media(max-width: 1200px) {
   .themes-max-width1 {
     width: 669px;
@@ -595,6 +526,10 @@
     width: 789px;
     margin-left: 75px;
   }
+  .themes-image2 {
+    left: 45px;
+    width: 324px;
+  }
   .themes-hero-image {
     right: 20px;
     width: 617px;
@@ -602,6 +537,9 @@
   }
 }
 @media(max-width: 991px) {
+  .themes-container2 {
+    height: 360px;
+  }
   .themes-content {
     width: 50%;
     margin-right: var(--dl-space-space-unit);
@@ -610,6 +548,10 @@
     padding-bottom: var(--dl-space-space-threeunits);
   }
   .themes-hero-image {
+    right: -12px;
+    width: 611px;
+    bottom: -6px;
+    height: 698px;
     margin-bottom: 0px;
   }
   .themes-content1 {

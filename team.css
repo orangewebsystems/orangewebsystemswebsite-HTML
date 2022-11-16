@@ -276,15 +276,6 @@
   font-style: normal;
   font-weight: 400;
 }
-@media(max-width: 1600px) {
-  .team-image1 {
-    width: 180px;
-    height: 180px;
-  }
-  .team-text07 {
-    font-size: 1.5em;
-  }
-}
 @media(max-width: 991px) {
   .team-max-width1 {
     flex-direction: column;

@@ -377,37 +377,6 @@
   font-style: normal;
   font-weight: 400;
 }
-@media(max-width: 1600px) {
-  .home-text03 {
-    color: var(--dl-color-scheme-green100);
-    font-size: 24px;
-    font-family: Urbanist;
-    font-weight: 900;
-    line-height: 1.5;
-    letter-spacing: 1px;
-  }
-  .home-text04 {
-    font-style: normal;
-    font-weight: 400;
-  }
-  .home-link1 {
-    font-style: normal;
-    font-weight: 900;
-    text-decoration: inherit;
-  }
-  .home-text05 {
-    font-style: normal;
-    font-weight: 400;
-  }
-  .home-text06 {
-    font-style: normal;
-    font-weight: 400;
-  }
-  .home-text07 {
-    font-style: normal;
-    font-weight: 400;
-  }
-}
 @media(max-width: 1200px) {
   .home-text03 {
     color: var(--dl-color-scheme-green100);
