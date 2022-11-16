@@ -583,6 +583,24 @@
     color: var(--dl-color-scheme-green80);
   }
 }
+@media(max-width: 1200px) {
+  .themes-max-width1 {
+    width: 669px;
+    margin-right: 0px;
+  }
+  .themes-container2 {
+    width: 647px;
+  }
+  .themes-container3 {
+    width: 789px;
+    margin-left: 75px;
+  }
+  .themes-hero-image {
+    right: 20px;
+    width: 617px;
+    height: 741px;
+  }
+}
 @media(max-width: 991px) {
   .themes-content {
     width: 50%;
