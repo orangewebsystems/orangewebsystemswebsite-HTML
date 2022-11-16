@@ -539,11 +539,9 @@
     width: 269px;
   }
   .themes-hero-image {
-    top: 18px;
-    right: 118px;
+    right: 50px;
     width: 607px;
     height: 733px;
-    position: absolute;
     box-shadow: 5px 5px 10px 0px #d4d4d4;
   }
   .themes-hero1 {
