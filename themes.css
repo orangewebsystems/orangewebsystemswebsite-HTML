@@ -211,7 +211,22 @@
   top: 27px;
   flex: 1;
   right: 5px;
+  width: 652px;
+  height: 755px;
+  position: absolute;
+  max-width: 550px;
+  object-fit: cover;
+  border-radius: 48px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.themes-hero-image1 {
+  flex: 1;
+  left: 861px;
   width: 556px;
+  bottom: -74px;
   height: 634px;
   position: absolute;
   max-width: 550px;
@@ -334,7 +349,7 @@
   padding-left: -30px;
   text-decoration: none;
 }
-.themes-hero-image1 {
+.themes-hero-image2 {
   top: 27px;
   flex: 1;
   right: 150px;
@@ -360,7 +375,7 @@
   align-self: center;
   align-items: stretch;
 }
-.themes-hero-image2 {
+.themes-hero-image3 {
   width: 329px;
   height: 271px;
   object-fit: contain;
@@ -420,7 +435,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.themes-hero-image3 {
+.themes-hero-image4 {
   width: 432px;
   height: 281px;
   object-fit: contain;
@@ -541,6 +556,11 @@
     width: 617px;
     height: 741px;
   }
+  .themes-hero-image1 {
+    right: 20px;
+    width: 617px;
+    height: 741px;
+  }
 }
 @media(max-width: 991px) {
   .themes-container2 {
@@ -560,6 +580,13 @@
     height: 698px;
     margin-bottom: 0px;
   }
+  .themes-hero-image1 {
+    right: -12px;
+    width: 611px;
+    bottom: -6px;
+    height: 698px;
+    margin-bottom: 0px;
+  }
   .themes-content1 {
     width: 50%;
     margin-right: var(--dl-space-space-unit);
@@ -567,7 +594,7 @@
   .themes-image3 {
     padding-bottom: var(--dl-space-space-threeunits);
   }
-  .themes-hero-image1 {
+  .themes-hero-image2 {
     margin-bottom: 0px;
   }
   .themes-max-width3 {
@@ -576,7 +603,7 @@
   .themes-image5 {
     padding-bottom: var(--dl-space-space-threeunits);
   }
-  .themes-hero-image2 {
+  .themes-hero-image3 {
     width: 100%;
     margin-left: 0px;
     margin-bottom: 0px;
@@ -598,7 +625,7 @@
   .themes-image6 {
     padding-bottom: 0px;
   }
-  .themes-hero-image3 {
+  .themes-hero-image4 {
     width: 100%;
     margin-left: 0px;
     margin-bottom: 0px;
@@ -630,6 +657,9 @@
   .themes-hero-image {
     margin-right: 0px;
   }
+  .themes-hero-image1 {
+    margin-right: 0px;
+  }
   .themes-max-width2 {
     flex-direction: column-reverse;
   }
@@ -637,7 +667,7 @@
     width: 100%;
     margin-right: 0px;
   }
-  .themes-hero-image1 {
+  .themes-hero-image2 {
     margin-right: 0px;
   }
   .themes-content2 {
@@ -661,6 +691,9 @@
     display: none;
   }
   .themes-hero-image1 {
+    display: none;
+  }
+  .themes-hero-image2 {
     display: none;
   }
   .themes-banner {
