@@ -87,8 +87,14 @@
 .themes-hero {
   height: 681px;
   position: relative;
+  border-color: var(--dl-color-scheme-green100);
+  border-width: 1px;
   padding-bottom: 5px;
   background-color: #E0E2E9;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
 }
 .themes-max-width1 {
   width: 913px;
