@@ -206,24 +206,9 @@
 .themes-hero-image {
   top: 27px;
   flex: 1;
-  right: 5px;
-  width: 652px;
-  height: 755px;
-  position: absolute;
-  max-width: 550px;
-  object-fit: cover;
-  border-radius: 48px;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-}
-.themes-hero-image1 {
-  flex: 1;
-  left: 861px;
-  width: 556px;
-  bottom: -74px;
-  height: 634px;
+  right: 15px;
+  width: 512px;
+  height: 587px;
   position: absolute;
   max-width: 550px;
   object-fit: cover;
@@ -345,7 +330,7 @@
   padding-left: -30px;
   text-decoration: none;
 }
-.themes-hero-image2 {
+.themes-hero-image1 {
   top: 27px;
   flex: 1;
   right: 150px;
@@ -371,7 +356,7 @@
   align-self: center;
   align-items: stretch;
 }
-.themes-hero-image3 {
+.themes-hero-image2 {
   width: 329px;
   height: 271px;
   object-fit: contain;
@@ -385,11 +370,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text05 {
+.themes-text08 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text06 {
+.themes-text09 {
   width: 646px;
   font-size: 42px;
   align-self: flex-start;
@@ -399,7 +384,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.themes-text08 {
+.themes-text11 {
   color: var(--dl-color-scheme-orange100);
 }
 .themes-section1 {
@@ -418,11 +403,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text09 {
+.themes-text12 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text10 {
+.themes-text13 {
   width: 542px;
   font-size: 42px;
   font-style: normal;
@@ -431,7 +416,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.themes-hero-image4 {
+.themes-hero-image3 {
   width: 432px;
   height: 281px;
   object-fit: contain;
@@ -448,11 +433,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text11 {
+.themes-text14 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text12 {
+.themes-text15 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -482,11 +467,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-1300w.png");
 }
-.themes-text13 {
+.themes-text16 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text14 {
+.themes-text17 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -525,7 +510,7 @@
   justify-content: center;
   background-color: #018262;
 }
-.themes-text20 {
+.themes-text23 {
   color: var(--dl-color-scheme-white);
   font-size: 18px;
   font-style: normal;
@@ -552,11 +537,6 @@
     width: 617px;
     height: 741px;
   }
-  .themes-hero-image1 {
-    right: 20px;
-    width: 617px;
-    height: 741px;
-  }
 }
 @media(max-width: 991px) {
   .themes-container2 {
@@ -576,13 +556,6 @@
     height: 698px;
     margin-bottom: 0px;
   }
-  .themes-hero-image1 {
-    right: -12px;
-    width: 611px;
-    bottom: -6px;
-    height: 698px;
-    margin-bottom: 0px;
-  }
   .themes-content1 {
     width: 50%;
     margin-right: var(--dl-space-space-unit);
@@ -590,7 +563,7 @@
   .themes-image3 {
     padding-bottom: var(--dl-space-space-threeunits);
   }
-  .themes-hero-image2 {
+  .themes-hero-image1 {
     margin-bottom: 0px;
   }
   .themes-max-width3 {
@@ -599,7 +572,7 @@
   .themes-image5 {
     padding-bottom: var(--dl-space-space-threeunits);
   }
-  .themes-hero-image3 {
+  .themes-hero-image2 {
     width: 100%;
     margin-left: 0px;
     margin-bottom: 0px;
@@ -621,7 +594,7 @@
   .themes-image6 {
     padding-bottom: 0px;
   }
-  .themes-hero-image4 {
+  .themes-hero-image3 {
     width: 100%;
     margin-left: 0px;
     margin-bottom: 0px;
@@ -653,9 +626,6 @@
   .themes-hero-image {
     margin-right: 0px;
   }
-  .themes-hero-image1 {
-    margin-right: 0px;
-  }
   .themes-max-width2 {
     flex-direction: column-reverse;
   }
@@ -663,7 +633,7 @@
     width: 100%;
     margin-right: 0px;
   }
-  .themes-hero-image2 {
+  .themes-hero-image1 {
     margin-right: 0px;
   }
   .themes-content2 {
@@ -687,9 +657,6 @@
     display: none;
   }
   .themes-hero-image1 {
-    display: none;
-  }
-  .themes-hero-image2 {
     display: none;
   }
   .themes-banner {
