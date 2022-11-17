@@ -106,7 +106,7 @@
   margin-top: 0px;
   text-align: left;
   font-family: Urbanist;
-  font-weight: 900;
+  font-weight: bold;
   line-height: 1.5;
   margin-left: 0px;
   margin-right: 0px;
@@ -114,8 +114,26 @@
   margin-bottom: 19px;
   letter-spacing: 1px;
 }
+.home-text04 {
+  font-style: normal;
+  font-family: Titillium Web;
+  font-weight: 400;
+}
 .home-link1 {
+  font-style: normal;
+  font-family: Titillium Web;
+  font-weight: 400;
   text-decoration: underline;
+}
+.home-text05 {
+  font-style: normal;
+  font-family: Titillium Web;
+  font-weight: 400;
+}
+.home-text06 {
+  font-style: normal;
+  font-family: Titillium Web;
+  font-weight: 400;
 }
 .home-container2 {
   width: 1073px;
